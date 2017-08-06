@@ -9,7 +9,7 @@
 <body>
      <div class="start-container">
         <p><button id="btn-start">开始游戏</button></p>
-        <p><button id="btn-setting">设置</button></p>
+        <!-- <p><button id="btn-setting">设置</button></p> -->
     </div>
     <div class="game-container">
         <div class="timer-panel">
@@ -17,7 +17,7 @@
                 使用时间
             </div>
             <div class="panel-body">
-                00:00:00
+                <canvas id="timer"></canvas>
             </div>
         </div>
         <div class="help-panel">
@@ -33,7 +33,7 @@
                 当前级别
             </div>
             <div class="panel-body">
-                Level 1
+                <canvas id="level"></canvas>
             </div>
         </div>
         <div class="game-main-panel">
@@ -44,12 +44,12 @@
                 下一方块
             </div>
             <div class="panel-body">
-                Z
+                <canvas id="nextshape"></canvas>
             </div>
         </div>
         <div class="setting-panel">
             <div class="panel-body">
-                <button>暂停</button><br><br><button>设置</button>
+                <button id="btn-game-pause">暂停</button><br><br><button id="btn-game-setting">设置</button>
             </div>
         </div>
         <div class="score-panel">
@@ -57,7 +57,7 @@
                 当前得分
             </div>
             <div class="panel-body">
-                500
+                <canvas id="score"></canvas>
             </div>
         </div>
         <div class="high-score-panel">
@@ -65,15 +65,35 @@
                 最高得分
             </div>
             <div class="panel-body">
-                19900
+                <canvas id="highscore"></canvas>
             </div>
         </div>
     </div>
-    
+    <!-- <div class="modal-dialog">
+        <div class="modal-body">
+            <label for="ck-sound">启用声音</label>
+            <input type="checkbox" id="ck-sound">
+            <br>
+            <br>
+            <button id="btn-dialog-close">关闭</button>
+        </div>
+    </div> -->
+    <script src="vendor/howler.min.js"></script> 
     <script type="text/javascript" src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/Canvas.js"></script>
     <script type="text/javascript" src="js/Board.js"></script>
+    <script type="text/javascript" src="js/Block.js"></script>
+    <script type="text/javascript" src="js/Shape.js"></script>
     <script type="text/javascript" src="js/Resource.js"></script>
+    <script type="text/javascript" src="js/Keyboard.js"></script>
+
+    <script src="js/Score.js"></script>
+     <script src="js/Timer.js"></script>
+     <script src="js/Level.js"></script>
+     <script src="js/NextShape.js"></script>
+    <script src="js/HighScore.js"></script>   
+
+    <script type="text/javascript" src="js/Tetris.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
 </body>
 </html>
