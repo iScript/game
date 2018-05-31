@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>test</title>
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+
+</head>
+<body>
+	<script src="./pixi.min.js"></script>
+	<script>
+
+    let state, explorer, treasure, blobs, chimes, exit, player, dungeon,
+    door, healthBar, message, gameScene, gameOverScene, enemies, id;
+	var end = false;
+
+    //Create a Pixi Application
+	let app = new PIXI.Application({ 
+		width: 512, 
+		height: 512,                       
+		antialiasing: true, //抗锯齿
+		transparent: false, //是否透明
+		resolution: 1
+	});
+	document.body.appendChild(app.view);
+
+	PIXI.loader.add("images/treasureHunter.json").load(setup);
+
+	function setup() {
+		gameScene = new PIXI.Container();	//游戏场景
+  		app.stage.addChild(gameScene);
+
+		id = PIXI.loader.resources["images/treasureHunter.json"].textures;	//纹理图集取一个别名id，方便后续创建精灵
+
+		//地牢
+		dungeon = new PIXI.Sprite(id["dungeon.png"]);	
+  		gameScene.addChild(dungeon);
+
+		//门
+		door = new PIXI.Sprite(id["door.png"]); 
+		door.position.set(32, 0);
+		gameScene.addChild(door);
+
+		//探险家
+		explorer = new PIXI.Sprite(id["explorer.png"]);
+		explorer.x = 68;
+		explorer.y = gameScene.height / 2 - explorer.height / 2;
+		explorer.vx = 0;	//x轴的速度
+		explorer.vy = 0;	//y轴的速度
+		gameScene.addChild(explorer);
+
+		//宝箱
+		treasure = new PIXI.Sprite(id["treasure.png"]);
+		treasure.x = gameScene.width - treasure.width - 48;
+		treasure.y = gameScene.height / 2 - treasure.height / 2;
+		gameScene.addChild(treasure);
+
+
+		//Make the blobs
+		let numberOfBlobs = 6,
+		spacing = 48,
+		xOffset = 150,
+		speed = 2,
+		direction = 1;
+
+		blobs = [];	
+		
+		for (let i = 0; i < numberOfBlobs; i++) {
+			//
+			let blob = new PIXI.Sprite(id["blob.png"]);
+			
+			let x = spacing * i + xOffset;
+			let y = randomInt(0, app.stage.height - blob.height);
+			blob.x = x;
+			blob.y = y;
+			
+			
+			//设置垂直速度
+			blob.vy = speed * direction;
+			//下一个反方向
+			direction *= -1;
+			
+			blobs.push(blob);
+
+			gameScene.addChild(blob);
+		}
+
+		//Create the health bar
+		healthBar = new PIXI.Container();
+		healthBar.position.set(app.stage.width - 170, 4)
+		
+		gameScene.addChild(healthBar);
+
+		//黑色背景长方形
+		let innerBar = new PIXI.Graphics();
+		innerBar.beginFill(0x000000);
+		innerBar.drawRect(0, 0, 128, 8);
+		innerBar.endFill();
+		healthBar.addChild(innerBar);
+		
+		//红色
+		let outerBar = new PIXI.Graphics();
+		outerBar.beginFill(0xFF3300);
+		outerBar.drawRect(0, 0, 128, 8);
+		outerBar.endFill();
+		healthBar.addChild(outerBar);
+		healthBar.outer = outerBar;
+		//console.log(dungeon.x,dungeon.y,dungeon.width,dungeon.height)
+
+		//游戏结束场景
+		let style = new PIXI.TextStyle({
+			fontSize: 64,
+			fill: "white"
+		});
+		gameOverScene = new PIXI.Container();
+		app.stage.addChild(gameOverScene);
+		gameOverScene.visible = false;
+		message = new PIXI.Text("The End!",style);
+		message.x = 120;
+		message.y = app.stage.height / 2 - 32;
+		gameOverScene.addChild(message);
+		
+
+
+		let left = keyboard(37),
+		up = keyboard(38),
+		right = keyboard(39),
+		down = keyboard(40);
+		
+		//
+		left.press = function() {
+			explorer.vx = -3;
+			explorer.vy = 0;
+		};
+		//
+		left.release = function() {
+			// 如果左方向箭放开了，并且右边没按，x则停止
+			if (!right.isDown ) {
+				explorer.vx = 0;
+			}
+		};
+		//Up
+		up.press = function() {
+			explorer.vy = -3;
+			explorer.vx = 0;
+		};
+		up.release = function() {
+			if (!down.isDown ) {
+				explorer.vy = 0;
+			}
+		};
+		//Right
+		right.press = function() {
+			explorer.vx = 3;
+			explorer.vy = 0;
+		};
+		right.release = function() {
+			if (!left.isDown ) {
+				explorer.vx = 0;
+			}
+		};
+		//Down
+		down.press = function() {
+			explorer.vy = 3;
+			explorer.vx = 0;
+		};
+		down.release = function() {
+			if (!up.isDown ) {
+				explorer.vy = 0;
+			}
+		};
+
+		app.ticker.add(play)
+	}
+
+	function play(delta){
+
+		if(end){
+			gameScene.visible = false;
+			gameOverScene.visible = true;
+			return;
+		}	
+
+
+		//console.log("play")
+		explorer.x += explorer.vx;
+		explorer.y += explorer.vy;
+		
+		//
+		contain(explorer, {x: 28, y: 10, width: 488, height: 480});
+
+		let explorerHit = false;
+
+		blobs.forEach(function(blob) {
+			
+			//移动
+			blob.y += blob.vy;
+			
+			//边缘判断
+			let blobHitsWall = contain(blob, {x: 28, y: 10, width: 488, height: 480});
+			
+			// 碰到边缘后反方向
+			if (blobHitsWall === "top" || blobHitsWall === "bottom") {
+				blob.vy *= -1;
+			}
+			
+			//碰撞检测
+			if(hitTestRectangle(explorer, blob)) {
+				explorerHit = true;
+			}
+		});
+
+		if(explorerHit) {
+			//Make the explorer semi-transparent
+			explorer.alpha = 0.5;
+			//Reduce the width of the health bar's inner rectangle by 1 pixel
+			healthBar.outer.width -= 1;
+		} else {
+			//Make the explorer fully opaque (non-transparent) if it hasn't been hit
+			explorer.alpha = 1;
+		}
+		
+		//判断是否拿到宝箱
+		if (hitTestRectangle(explorer, treasure)) {
+			//拿到的话，宝箱跟着人移动
+			treasure.x = explorer.x + 8;
+			treasure.y = explorer.y + 8;
+		}
+
+		if (healthBar.outer.width < 0) {
+			end = true;
+			message.text = "You lost!";
+		}
+		//If the explorer has brought the treasure to the exit,
+		//end the game and display "You won!"
+		if (hitTestRectangle(treasure, door)) {
+			end = true;
+			message.text = "You won!";
+		} 
+	}
+
+	function end() {
+		gameScene.visible = false;
+		gameOverScene.visible = true;
+	}
+
+	function randomInt(min, max) {
+		return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+	// 碰撞检测
+	function hitTestRectangle(r1, r2) {
+		
+		//
+		let hit, combinedHalfWidths, combinedHalfHeights, vx, vy;
+		
+		//
+		hit = false;
+		
+		//每个精灵的中心点
+		r1.centerX = r1.x + r1.width / 2; 
+		r1.centerY = r1.y + r1.height / 2; 
+		r2.centerX = r2.x + r2.width / 2; 
+		r2.centerY = r2.y + r2.height / 2; 
+		
+		//一半的宽和一半的高
+		r1.halfWidth = r1.width / 2;
+		r1.halfHeight = r1.height / 2;
+		r2.halfWidth = r2.width / 2;
+		r2.halfHeight = r2.height / 2;
+		
+		
+		//检测x轴是否碰撞, 中心点相见是否小于 精灵一半宽度相加
+		if (Math.abs(r1.centerX - r2.centerX) < (r1.halfWidth + r2.halfWidth)) {
+			//同理检测y轴是否碰撞
+			if (Math.abs(r1.centerY - r2.centerY) < (r1.halfHeight + r2.halfHeight)) {
+				hit = true;
+			} else {
+				hit = false;
+			}
+		} else {
+			hit = false;
+		}
+
+		return hit;
+	};
+
+	// 键盘辅助函数
+	function keyboard(keyCode) {
+		var key = {};
+		key.code = keyCode;
+		key.isDown = false;
+		key.isUp = true;
+		key.press = undefined;
+		key.release = undefined;
+		//The `downHandler`
+		key.downHandler = function(event) {
+			if (event.keyCode === key.code) {
+				if (key.isUp && key.press) key.press();
+				key.isDown = true;
+				key.isUp = false;
+			}
+			event.preventDefault();
+		};
+		//The `upHandler`
+		key.upHandler = function(event) {
+			if (event.keyCode === key.code) {
+				if (key.isDown && key.release) key.release();
+				key.isDown = false;
+				key.isUp = true;
+			}
+			event.preventDefault();
+		};
+		//Attach event listeners
+		window.addEventListener(
+			"keydown", key.downHandler.bind(key), false
+		);
+		window.addEventListener(
+			"keyup", key.upHandler.bind(key), false
+		);
+		return key;
+	}
+
+	function contain(sprite, container) {
+		let collision = undefined;
+		//Left
+		if (sprite.x < container.x) {
+			sprite.x = container.x;
+			collision = "left";
+		}
+		//Top
+		if (sprite.y < container.y) {
+			sprite.y = container.y;
+			collision = "top";
+		}
+		//Right
+		if (sprite.x + sprite.width > container.width) {
+			sprite.x = container.width - sprite.width;
+			collision = "right";
+		}
+		//Bottom
+		if (sprite.y + sprite.height > container.height) {
+			sprite.y = container.height - sprite.height;
+			collision = "bottom";
+		}
+		//Return the `collision` value
+		return collision;
+	}
+	
+	</script>
+
+</body>
+</html>
