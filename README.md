@@ -8,7 +8,7 @@
 2. [宝藏猎手](https://iscript.github.io/game/treasureHunter)
 3. [捡星星](https://iscript.github.io/game/phaser-first)
 4. [flappy bird](https://iscript.github.io/game/flappy-bird)
-5. [跳一跳](https://iscript.github.io/game/tiaoyitiao)
+5. [跳一跳](https://iscript.github.io/game/t)
 
 
 
