@@ -1,0 +1,17 @@
+{
+  "name": "webpacktest",
+  "version": "1.0.0",
+  "description": "test webpack",
+  "main": "index.js",
+  "scripts": {
+    "server": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "webpack": "*",
+    "webpack-dev-server": "*",
+    "webpack-cli": "*"
+  }
+}
