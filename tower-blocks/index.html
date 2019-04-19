@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+
+	<title>叠塔大师</title>
+
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+    <script src="js/three.js"></script>
+    <script src="js/TweenMax.js"></script>
+    
+    
+    <style>
+    html, body
+    {
+        margin: 0;
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        font-family: 'Comfortaa', cursive;
+    }
+
+    #container
+    {
+        width: 100%;
+        height: 100%;
+    }	
+
+    #container	#score
+	{
+		position: absolute;
+		top: 20px;
+        left:20px;
+		width: 100%;
+		text-align: center;
+		font-size: 10vh;
+		transition: transform 0.5s ease;
+		color: #333344;
+		transform: translatey(-200px) scale(1);
+	}
+
+    #container	#game
+	{
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+	}
+	
+
+	#instructions
+	{
+		position: absolute;
+		width: 100%;
+		top: 16vh;
+		left: 0;
+		text-align: center;
+		transition: opacity 0.5s ease, transform 0.5s ease;
+		
+		opacity: 1;
+		
+	}
+
+    
+
+
+   
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="game"></div>
+        <div id="score">0</div>
+        <div id="instructions">点任意位置开始游戏</div>
+       
+    </div>
+    <script src="js/start.js"></script>
+</body>
+</html>

@@ -9,6 +9,7 @@
 3. [捡星星](https://iscript.github.io/game/phaser-first)
 4. [flappy bird](https://iscript.github.io/game/flappy-bird)
 5. [跳一跳](https://iscript.github.io/game/t)
+6. [叠塔大师](https://iscript.github.io/game/tower-blocks)
 
 
 
