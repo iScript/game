@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeIconBest",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 49,
+      "height": 42
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 49,
+      "height": 42
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "af4e9148-80d8-48e2-a11b-c54e1ddac70c@6c48a",
+    "packable": true
+  }
+}

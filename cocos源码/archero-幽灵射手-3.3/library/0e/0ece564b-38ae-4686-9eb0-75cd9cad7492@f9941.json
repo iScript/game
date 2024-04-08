@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonBox01",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 615,
+      "height": 976
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 615,
+      "height": 976
+    },
+    "rotated": false,
+    "capInsets": [
+      35,
+      28,
+      35,
+      45
+    ],
+    "texture": "0ece564b-38ae-4686-9eb0-75cd9cad7492@6c48a",
+    "packable": true
+  }
+}

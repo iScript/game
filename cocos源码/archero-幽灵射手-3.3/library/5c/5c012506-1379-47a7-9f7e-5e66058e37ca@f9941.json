@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "homeBtnStart",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 570,
+      "height": 182
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 570,
+      "height": 182
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5c012506-1379-47a7-9f7e-5e66058e37ca@6c48a",
+    "packable": true
+  }
+}

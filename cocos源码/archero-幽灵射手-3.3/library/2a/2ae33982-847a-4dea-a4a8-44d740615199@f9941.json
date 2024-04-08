@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBtnHome",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 145,
+      "height": 145
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 145,
+      "height": 145
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2ae33982-847a-4dea-a4a8-44d740615199@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "web-mobile": {
+      "orientation": "portrait",
+      "polyfills": {
+        "asyncFunctions": true
+      }
+    }
+  }
+}

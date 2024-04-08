@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raiseHpLimit",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 132,
+      "height": 132
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 132,
+      "height": 132
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6a2ad1d3-abd2-4b5f-bc6f-93c366a5160b@6c48a",
+    "packable": true
+  }
+}

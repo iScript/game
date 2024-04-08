@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrowDouble",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 132,
+      "height": 132
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 132,
+      "height": 132
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b724bdc9-89b9-4c7f-bc66-b23025bf6260@6c48a",
+    "packable": true
+  }
+}

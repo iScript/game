@@ -1,0 +1,500 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88",
+  "files": [],
+  "subMetas": {
+    "15451": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@15451",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 11
+      },
+      "displayName": "",
+      "id": "15451",
+      "name": "CastleT5 (3).mesh"
+    },
+    "50825": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@50825",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "50825",
+      "name": "castle_04.material"
+    },
+    "c1b4b": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@c1b4b",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "c1b4b",
+      "name": "CastleT8.mesh"
+    },
+    "f8d5e": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@f8d5e",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "f8d5e",
+      "name": "CastleT8 (1).mesh"
+    },
+    "acd34": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@acd34",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "acd34",
+      "name": "CastleT6 (1).mesh"
+    },
+    "191a6": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@191a6",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "191a6",
+      "name": "CastleT6 (2).mesh"
+    },
+    "d2dd0": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@d2dd0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "d2dd0",
+      "name": "CastleT4 (2).mesh"
+    },
+    "faabb": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@faabb",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "faabb",
+      "name": "CastleT4 (3).mesh"
+    },
+    "0f478": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@0f478",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      },
+      "displayName": "",
+      "id": "0f478",
+      "name": "CastleT2 (2).mesh"
+    },
+    "5a294": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@5a294",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      },
+      "displayName": "",
+      "id": "5a294",
+      "name": "CastleT1.mesh"
+    },
+    "dcdc5": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@dcdc5",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 8
+      },
+      "displayName": "",
+      "id": "dcdc5",
+      "name": "Cupol (2).mesh"
+    },
+    "98f43": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@98f43",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 9
+      },
+      "displayName": "",
+      "id": "98f43",
+      "name": "Cupol (3).mesh"
+    },
+    "bfa39": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@bfa39",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 10
+      },
+      "displayName": "",
+      "id": "bfa39",
+      "name": "CastleT5 (2).mesh"
+    },
+    "f260a": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@f260a",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 12
+      },
+      "displayName": "",
+      "id": "f260a",
+      "name": "Cupol (5).mesh"
+    },
+    "a2586": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@a2586",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 13
+      },
+      "displayName": "",
+      "id": "a2586",
+      "name": "Cupol (6).mesh"
+    },
+    "df721": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@df721",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 14
+      },
+      "displayName": "",
+      "id": "df721",
+      "name": "CastleT2 (3).mesh"
+    },
+    "e2349": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e2349",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 15
+      },
+      "displayName": "",
+      "id": "e2349",
+      "name": "Mesh.mesh"
+    },
+    "9db32": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@9db32",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 16
+      },
+      "displayName": "",
+      "id": "9db32",
+      "name": "Stick.mesh"
+    },
+    "bee0d": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@bee0d",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 17
+      },
+      "displayName": "",
+      "id": "bee0d",
+      "name": "SM_Bld_Castle_Flagpole_01.mesh"
+    },
+    "d0c4e": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@d0c4e",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "d0c4e",
+      "name": "castle_03.material"
+    },
+    "e536e": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e536e",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "e536e",
+      "name": "castle_02.material"
+    },
+    "11e6a": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@11e6a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "11e6a",
+      "name": "castle_06.material"
+    },
+    "62b33": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@62b33",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 4
+      },
+      "displayName": "",
+      "id": "62b33",
+      "name": "lambert6.material"
+    },
+    "01470": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@01470",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 5
+      },
+      "displayName": "",
+      "id": "01470",
+      "name": "castle_05.material"
+    },
+    "ea6e2": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@ea6e2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 6
+      },
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material"
+    },
+    "e59fc": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e59fc",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 7
+      },
+      "displayName": "",
+      "id": "e59fc",
+      "name": "Default-Material.material"
+    },
+    "b4f25": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "uuid": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@b4f25",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "b4f25",
+      "name": "CubeCastle_02_2.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@b4f25",
+    "assetFinder": {
+      "meshes": [
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@c1b4b",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@f8d5e",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@acd34",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@191a6",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@d2dd0",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@faabb",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@0f478",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@5a294",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@dcdc5",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@98f43",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@bfa39",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@15451",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@f260a",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@a2586",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@df721",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e2349",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@9db32",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@bee0d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@d0c4e",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e536e",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@11e6a",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@50825",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@62b33",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@01470",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@ea6e2",
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@e59fc"
+      ],
+      "scenes": [
+        "8c9281e1-016b-4d6e-a9b2-6db8ef24cc88@b4f25"
+      ]
+    }
+  }
+}

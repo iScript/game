@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "settlementImgLight",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 391,
+      "height": 391
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 391,
+      "height": 391
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3607b2b4-e37f-40ca-9298-7343377ec207@6c48a",
+    "packable": true
+  }
+}

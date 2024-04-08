@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBtnRight",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 144,
+      "height": 144
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 144,
+      "height": 144
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "52abe1cd-9433-49aa-a26a-d0f4fa9b91e7@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,4 @@
+对应资源编号(敌人、物件),位置,角度,缩放,技能(本层该敌人所使用的技能，1个或以上，该属性对障碍无效）,移动模式
+string,string,string,string,string,number
+ID,position,angle,scale,skill,movePattern
+2001,"0,1.62,0",,,,

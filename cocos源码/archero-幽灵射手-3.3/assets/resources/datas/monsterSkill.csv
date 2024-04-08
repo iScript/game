@@ -1,0 +1,11 @@
+技能ID,名称,说明,技能类型(1单发2抛投型3范围覆盖4散射5S型6坠落型7六角形),资源名称,技能起点,是否穿透,飞行速度,技能预警(warningLine直线warningStrip直线范围warningCircle圆形范围)
+string,string,string,string,string,string,number,number,string
+ID,name,desc,type,resName,startPos,penetrate,flySpeed,warning
+101,能量球,直线飞行的能量球，需要拖尾效果,1,energyBall,,,11,warningStrip
+102,小火球,以抛物线的方式飞行移动，只有落地时会造成伤害,2,fireBall,,1,11,warningCircle
+103,直线范围火焰,"从出现到消失持续2秒,持续覆盖一定范围的攻击方式，会造成多次伤害",3,jetFires,,1,12,
+104,180度散射,向前方180%射出众多的子弹,4,dispersion,,,12,
+105,龙卷风,子弹会以S型的移动方式向前进,5,tornado,,,2,
+106,大火团,从上方直线坠落到地面,6,fireBallBig,,1,1,warningCircle
+107,360度散射,向身周360度六角形发射6个子弹,7,dispersionSurround,,,12,
+108,直线激光,,3,laser,,1,1,warningLine

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "map001",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "对应资源编号(敌人、物件),位置,角度,缩放,技能(本层该敌人所使用的技能，1个或以上，该属性对障碍无效）,移动模式\r\nstring,string,string,string,string,number\r\nID,position,angle,scale,skill,movePattern\r\n2001,\"0,1.62,0\",,,,\r\n"
+}

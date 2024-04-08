@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightIngStop",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 139,
+      "height": 139
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 139,
+      "height": 139
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5a61a939-9452-44a7-8c38-0afbeccd62ae@6c48a",
+    "packable": true
+  }
+}

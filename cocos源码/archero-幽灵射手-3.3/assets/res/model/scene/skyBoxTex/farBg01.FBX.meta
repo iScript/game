@@ -1,0 +1,62 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b662c750-701d-475d-97fd-c0c966762318",
+  "files": [],
+  "subMetas": {
+    "f576e": {
+      "importer": "gltf-mesh",
+      "uuid": "b662c750-701d-475d-97fd-c0c966762318@f576e",
+      "displayName": "",
+      "id": "f576e",
+      "name": "farBg01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75fb5": {
+      "importer": "gltf-scene",
+      "uuid": "b662c750-701d-475d-97fd-c0c966762318@75fb5",
+      "displayName": "",
+      "id": "75fb5",
+      "name": "farBg01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "redirect": "b662c750-701d-475d-97fd-c0c966762318@75fb5",
+    "assetFinder": {
+      "meshes": [
+        "b662c750-701d-475d-97fd-c0c966762318@f576e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3348a9ca-0262-47b4-9ce9-d4506d1bd2fa"
+      ],
+      "scenes": [
+        "b662c750-701d-475d-97fd-c0c966762318@75fb5"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/res/model/scene/skyBoxTex"
+  }
+}

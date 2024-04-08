@@ -1,0 +1,4922 @@
+{
+  "/Users/ykq/Downloads/archero/assets/migrate-canvas.ts": {
+    "time": 1629341888000,
+    "uuid": "7bb93800-34aa-40ff-9414-daa05a0d98ed",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res": {
+    "time": 1630747853000,
+    "uuid": "d619bb02-76a1-4ace-826f-b3b44149e185",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources": {
+    "time": 1630637813000,
+    "uuid": "424bcba1-5f0e-4acf-93f7-b1b7415a8409",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/scene": {
+    "time": 1630706947000,
+    "uuid": "f816652a-3477-40d1-8da6-e860210d9b09",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script": {
+    "time": 1630910541000,
+    "uuid": "495e3225-a356-48e9-9345-5ff4b189f5c3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/animation": {
+    "time": 1630637799000,
+    "uuid": "89348472-79cf-4d25-8ec0-197061fb06ca",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect": {
+    "time": 1630662988000,
+    "uuid": "812c86f6-076b-41e0-993c-b0a630ede81d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font": {
+    "time": 1630747866000,
+    "uuid": "fe9365c7-a125-4aab-9039-c65bf9571483",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/material": {
+    "time": 1630707244000,
+    "uuid": "c3810da8-a581-48d6-ad81-ad3125273b26",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model": {
+    "time": 1630637803000,
+    "uuid": "20370b15-54ad-4b1e-bad3-4f478f71cb63",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/physicsMaterial": {
+    "time": 1630550746000,
+    "uuid": "1a8cd2ba-9591-40ea-9132-47ec19a14ac2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture": {
+    "time": 1630637813000,
+    "uuid": "22c1c68b-a169-45ff-b2f3-a9f55503e131",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio": {
+    "time": 1630662188000,
+    "uuid": "4d49d20c-667f-4879-8b3d-9ef2e1041d0b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas": {
+    "time": 1630906655000,
+    "uuid": "9cd8ca70-a503-4114-9e26-55c8fcb3bdeb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab": {
+    "time": 1630637813000,
+    "uuid": "0d31eed8-e0d4-4173-92f8-b305cba55d72",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture": {
+    "time": 1630637813000,
+    "uuid": "ff875602-2485-4887-9948-3139e19e0319",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/art.scene": {
+    "time": 1630573403000,
+    "uuid": "3002aa1c-6385-4a59-b6f6-2110e8f1325b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/effect.scene": {
+    "time": 1709172700327.623,
+    "uuid": "dfb9aa98-c561-4c0d-84a4-3c7dc8990040",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/fight.scene": {
+    "time": 1630913325000,
+    "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight": {
+    "time": 1630910541000,
+    "uuid": "e3df3c14-d550-43de-ae6c-4fd156b856c4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework": {
+    "time": 1629973380000,
+    "uuid": "21b205ba-ffbf-4268-96ec-e4b44cc8b4b2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/lib": {
+    "time": 1630563249000,
+    "uuid": "89c51fa6-e0c3-4c10-b470-c8ef8e9c44c9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/main.ts": {
+    "time": 1630912525000,
+    "uuid": "3fbc818d-18be-427d-9e08-b7e4ac65da6a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui": {
+    "time": 1630479405000,
+    "uuid": "db113722-8007-47f4-8a49-df853ee0fe6e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils": {
+    "time": 1630554970000,
+    "uuid": "830ceb72-8ebd-48b3-b260-16cfc3c939a2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/animation/loading.anim": {
+    "time": 1629971892000,
+    "uuid": "6e97ea34-5b80-4e92-9fa6-d5f083ec258b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation": {
+    "time": 1630910772000,
+    "uuid": "e210e17f-318b-4371-aee8-acc014b027dc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow": {
+    "time": 1629971892000,
+    "uuid": "abf6197c-a729-4800-a24f-db0d4f7b7b53",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud": {
+    "time": 1629699756000,
+    "uuid": "216e897e-7252-4e4a-b443-009b9bf21518",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/coinTrail": {
+    "time": 1629971892000,
+    "uuid": "a4363c1a-47f5-4c51-9445-2841f4e555b1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/energyBall": {
+    "time": 1629971892000,
+    "uuid": "acd63404-e32e-425b-aa37-5457c69872ec",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall": {
+    "time": 1629971892000,
+    "uuid": "85067e66-6580-46ab-96ca-cee26dd0d604",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/groundLight": {
+    "time": 1629971892000,
+    "uuid": "0df6c206-1ff1-4ec2-b95c-0949d6490eb9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/heartEff": {
+    "time": 1629971892000,
+    "uuid": "a3eae934-ae6f-4421-b6e0-dfc95a8564ac",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hellFireEff": {
+    "time": 1630293512000,
+    "uuid": "a49a360f-763e-4787-b659-2ca9eb7f3dd5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit": {
+    "time": 1630293512000,
+    "uuid": "b63d37b9-e28b-42da-9600-61e93af7db81",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires": {
+    "time": 1629971892000,
+    "uuid": "187940f3-28a4-415b-8d96-ddda2ab0e57c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser": {
+    "time": 1630293512000,
+    "uuid": "c0acc5f5-2038-40c4-9d71-88b8e9213dff",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/levelUp": {
+    "time": 1630293512000,
+    "uuid": "77a431d4-39fa-40aa-abe8-ff7c77c7933a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/lightningChain": {
+    "time": 1629971892000,
+    "uuid": "aca25f02-9f6b-45f0-809a-169c7cda95b6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud": {
+    "time": 1630910772000,
+    "uuid": "7d01a3d2-f3d2-4ffb-8b48-e616fab2a5df",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh": {
+    "time": 1629699756000,
+    "uuid": "d73b8e4e-58ef-4c9f-8e23-2cd1238ed017",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/recovery": {
+    "time": 1629971892000,
+    "uuid": "235a88d5-2d1c-4c7f-992e-3ad867e1b2ee",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/revival": {
+    "time": 1630293512000,
+    "uuid": "83755446-388f-4cd6-917a-f178e0e72b34",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/runSmoke": {
+    "time": 1629971892000,
+    "uuid": "9ee34844-0a83-4f4f-ac56-4c62d7684637",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture": {
+    "time": 1630662532000,
+    "uuid": "5d6ac3f4-a80e-4f54-a54f-94ea606b8fec",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/tornado": {
+    "time": 1630030939000,
+    "uuid": "fec39f1f-9d64-4ce9-9618-5dd807a5f777",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning": {
+    "time": 1629990584000,
+    "uuid": "8cbc73c5-18d5-48e6-9837-70aae3c6a3d2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate": {
+    "time": 1629971892000,
+    "uuid": "6e915074-23a6-4e19-bacb-e5185d75a17b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font/fontWin.fnt": {
+    "time": 1630747866000,
+    "uuid": "d4d8f4ef-bdb7-452a-ace9-119f05e25926",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font/fontWin_0.png": {
+    "time": 1630747866000,
+    "uuid": "fd4fd747-60d2-474b-99dd-aa72f11b71c2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/material/wall.mtl": {
+    "time": 1709172700335.4539,
+    "uuid": "116fb9b2-2c6b-490f-9187-9dee2361b4d8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster": {
+    "time": 1629341888000,
+    "uuid": "b3c44ff2-70f7-4bad-813d-a38edaa807fa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc": {
+    "time": 1629341888000,
+    "uuid": "c9b68e04-8126-4403-8803-6877becbd1da",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop": {
+    "time": 1629971892000,
+    "uuid": "3e064d07-ba7d-4ae6-bc7b-f0a7128984b7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role": {
+    "time": 1629341888000,
+    "uuid": "88fc06cc-cbb6-470a-a3b0-22ec8e6c4ece",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene": {
+    "time": 1630664283000,
+    "uuid": "213cc7be-46b8-47f9-be90-c0ae8d42ea79",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/physicsMaterial/monster.pmtl": {
+    "time": 1629726805000,
+    "uuid": "a6b70d7d-2ead-439c-94ff-25989f7d736e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common": {
+    "time": 1629341888000,
+    "uuid": "09765792-99c8-4b9d-9c59-063919538547",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight": {
+    "time": 1630406951000,
+    "uuid": "2cbcf991-f69d-455a-aca8-48359d4fe61e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home": {
+    "time": 1629341888000,
+    "uuid": "bae164b2-43aa-40c4-b41e-5d5ed4a40e10",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting": {
+    "time": 1629341888000,
+    "uuid": "8f6dd916-e60a-46dc-a226-4dd15120348f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement": {
+    "time": 1629341888000,
+    "uuid": "204920b4-6135-4c59-8178-7942cb8e2627",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound": {
+    "time": 1630708620000,
+    "uuid": "08be455c-f8d0-41da-8fa5-ba71e7ced585",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/base.csv": {
+    "time": 1630707148000,
+    "uuid": "f040b60e-6793-4d9b-a877-6999680fd0dc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/checkpoint.csv": {
+    "time": 1630825319000,
+    "uuid": "e032e5c0-d0c9-42ff-98f1-218ccb4a15eb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map001.csv": {
+    "time": 1630906655000,
+    "uuid": "b701761e-686b-47cb-ad8b-c243b0d8f5e1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map002.csv": {
+    "time": 1630825308000,
+    "uuid": "a8e92793-622d-40e0-a13f-baa14fd9d235",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map003.csv": {
+    "time": 1630650633000,
+    "uuid": "7c8edf96-dc89-4cd2-b57c-e194f4c905b3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map004.csv": {
+    "time": 1630650633000,
+    "uuid": "6826e9f6-eac8-483a-91b8-a1b553abc985",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map005.csv": {
+    "time": 1630549817000,
+    "uuid": "23341665-9598-4af6-a167-a12966bb6fb5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map006.csv": {
+    "time": 1630650633000,
+    "uuid": "fb629cc7-3c83-433b-84f1-baebce8cd9b0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map007.csv": {
+    "time": 1630650633000,
+    "uuid": "85a33e94-8fa8-413f-8f8c-2b818d25305e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map009.csv": {
+    "time": 1630549817000,
+    "uuid": "8b2c8368-860e-4905-9a86-b086742b7d06",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map010.csv": {
+    "time": 1630549817000,
+    "uuid": "379d4459-38df-44d2-b5d0-5e3b75eb19e8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map011.csv": {
+    "time": 1630549817000,
+    "uuid": "256a023f-717d-4195-b031-905634362ba3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map101.csv": {
+    "time": 1630650633000,
+    "uuid": "e849ba20-ff39-4f74-8aa3-e8e4993600e7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map102.csv": {
+    "time": 1630650633000,
+    "uuid": "6d99f9b8-c828-4dbe-8495-48b5c4800512",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map103.csv": {
+    "time": 1630650633000,
+    "uuid": "37e726f3-6c0e-4650-b387-bb2abc60934f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map104.csv": {
+    "time": 1630650633000,
+    "uuid": "72321986-2c1a-4446-bbcf-b93db03d9e17",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map105.csv": {
+    "time": 1630650633000,
+    "uuid": "5414564a-3151-4ed8-a869-164346341ba0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/monsterSkill.csv": {
+    "time": 1630320293000,
+    "uuid": "39ea9466-0356-46f9-a5c5-0dffe190e4d8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/playerSkill.csv": {
+    "time": 1630634787000,
+    "uuid": "08b0e860-ae4f-41dd-8c58-c7f75777cb8f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect": {
+    "time": 1630294566000,
+    "uuid": "75526992-ea40-47b7-b53f-299b4bf592a3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model": {
+    "time": 1630655379000,
+    "uuid": "3507c314-f7f9-48ae-b3ff-f4d78f48f9d9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui": {
+    "time": 1629341888000,
+    "uuid": "97126f6e-eeba-415e-8c94-ca8d70ae6d3b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon": {
+    "time": 1629341888000,
+    "uuid": "71196cda-a273-4494-8406-c4332170d267",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/arrow.ts": {
+    "time": 1630652693000,
+    "uuid": "9b7069b1-f7d6-48fd-999c-a6c00ea62873",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/boss.ts": {
+    "time": 1630903488000,
+    "uuid": "2b65600d-d892-49d8-a184-6210ccff7061",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/characterRigid.ts": {
+    "time": 1630852759000,
+    "uuid": "661af6ca-f3f8-4f35-b586-b01ce4f06b08",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/colliderItem.ts": {
+    "time": 1630652701000,
+    "uuid": "a3c3e4a8-52b1-4a97-9205-4d04065a745d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/gameCamera.ts": {
+    "time": 1629887272000,
+    "uuid": "7b36d961-8cf0-402c-9bf5-550f5673b33e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/gameManager.ts": {
+    "time": 1630912984000,
+    "uuid": "74bb57c4-2aa2-4123-befd-d855a4c523ff",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/mapManager.ts": {
+    "time": 1630665613000,
+    "uuid": "d3b32c04-1a4e-40f6-9b70-86927a960858",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monster.ts": {
+    "time": 1630906465000,
+    "uuid": "75fe4369-12a3-4c35-9492-8f967dbc39c0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterModel.ts": {
+    "time": 1630858502000,
+    "uuid": "15aa8a09-7317-4528-a050-9d18e38632d7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill": {
+    "time": 1630014645000,
+    "uuid": "4c17f52f-5d8e-43f8-ac2a-2679f470779d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkillCollider.ts": {
+    "time": 1630796132000,
+    "uuid": "00815c2d-84e4-4dca-a770-8fec02dbc6e4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/player.ts": {
+    "time": 1630910134000,
+    "uuid": "00abe096-4f1a-40c2-bada-a00fb6513e2a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/playerModel.ts": {
+    "time": 1630830471000,
+    "uuid": "6d341394-d0a1-4a9e-9eab-5bbf66946d09",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/reward.ts": {
+    "time": 1630708734000,
+    "uuid": "4b12dd3b-d858-4c53-8d6a-d9b6ac1c84f6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/test.ts": {
+    "time": 1629341888000,
+    "uuid": "2b6ad453-582b-44cf-94a3-262d5168e9b9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/verticalRaycast.ts": {
+    "time": 1630572597000,
+    "uuid": "0bee9645-fb4c-4605-8bd4-c9074dc1402a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill": {
+    "time": 1629692878000,
+    "uuid": "9b71ad26-cf8f-4017-a4d7-cd3c359ce9a4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/audioManager.ts": {
+    "time": 1630664566000,
+    "uuid": "5e2ec645-1091-441e-80a0-c7a9575581c1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/clientEvent.ts": {
+    "time": 1629341888000,
+    "uuid": "e55dbcc1-367d-4d52-b87c-af9ceeb2f099",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/constant.ts": {
+    "time": 1630708691000,
+    "uuid": "b08f0f24-88e9-4403-b7ba-a9459aec09c0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/csvManager.ts": {
+    "time": 1629341888000,
+    "uuid": "d755406e-aa72-4b00-a89b-c15516b5ee4f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/effectManager.ts": {
+    "time": 1630673451000,
+    "uuid": "554ba46f-7575-4269-965e-5c54afbc0a5e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/localConfig.ts": {
+    "time": 1629341888000,
+    "uuid": "12fac499-8454-4621-86bb-cb188b5433a9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/lodash.ts": {
+    "time": 1629341888000,
+    "uuid": "a40a4a46-47a9-42aa-8d1c-a11d56e24025",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/playerData.ts": {
+    "time": 1630567920000,
+    "uuid": "e5927076-94ef-42ea-8e5e-2e0d8d99c281",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/poolManager.ts": {
+    "time": 1629341888000,
+    "uuid": "e4ab64f9-ff55-42a8-afd5-9fe51c00334c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/resourceUtil.ts": {
+    "time": 1629341888000,
+    "uuid": "7844ed5b-3b06-4afb-b24c-62310d414e6f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/sdkUtil.ts": {
+    "time": 1630661761000,
+    "uuid": "a8753fdf-f1a2-4833-a929-6b65a411207c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/storageManager.ts": {
+    "time": 1630017429000,
+    "uuid": "56893e3c-6d22-46c9-8a35-d9619ae9e789",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/uiManager.ts": {
+    "time": 1629623713000,
+    "uuid": "f9384158-0e9e-46aa-85be-0adac295add4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/util.ts": {
+    "time": 1630896667000,
+    "uuid": "5123890b-1801-4188-ba33-de0c5cc31b47",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/lib/cocosAnalytics.min.js": {
+    "time": 1630563249000,
+    "uuid": "52549ade-cff2-450e-aecd-46c33d8a7cb6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/back": {
+    "time": 1629341888000,
+    "uuid": "907c613f-4462-449d-9b2e-b38fee1370eb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common": {
+    "time": 1629341888000,
+    "uuid": "28b72367-df1a-42ea-bf8a-658f2e8bff58",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug": {
+    "time": 1629341888000,
+    "uuid": "bea4abe7-6cd7-48fc-972e-951ee0b032e2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight": {
+    "time": 1629341888000,
+    "uuid": "765e163b-45a2-4d9f-b7fe-f67cbd1b9b97",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/home": {
+    "time": 1630910541000,
+    "uuid": "ec64c209-fba7-42b0-93d3-61defe7f9fe0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/loading": {
+    "time": 1630910541000,
+    "uuid": "b081d04e-7d63-4b4b-9f0d-b200ca7124bb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause": {
+    "time": 1629341888000,
+    "uuid": "2e0707ae-53c6-4626-8823-e914f2fb9e8a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/revive": {
+    "time": 1629341888000,
+    "uuid": "5080b274-4e28-42d8-9b76-91939afc0724",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/setting": {
+    "time": 1629341888000,
+    "uuid": "57f221f1-9b3c-4384-841a-676aaf388e3e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/settlement": {
+    "time": 1629341888000,
+    "uuid": "70ec9668-9ecf-4a47-966c-abc344fa4388",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel": {
+    "time": 1629341888000,
+    "uuid": "b486fdb5-7b45-48b6-a051-b9a159ede36a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill": {
+    "time": 1629341888000,
+    "uuid": "6dd3c579-c8a5-4371-a4d6-3cde63d2fc89",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils/camera.ts": {
+    "time": 1629341888000,
+    "uuid": "f3a759eb-5e63-419e-89ea-a9d51d5bdc73",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils/joystick.ts": {
+    "time": 1630554970000,
+    "uuid": "ce11c52a-45d0-4cfb-a159-2d063aa86eaa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloud.anim": {
+    "time": 1629971892000,
+    "uuid": "596e10fb-f1b2-49c5-aa83-8f49a451dcda",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloudAnimationIn.anim": {
+    "time": 1630910772000,
+    "uuid": "ac2ebbb5-4cb7-4701-8e29-f1f80d6ee331",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloudAnimationOut.anim": {
+    "time": 1630910772000,
+    "uuid": "c3c28b50-c133-427a-9be0-70ecd0950dc9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/revival.anim": {
+    "time": 1629971892000,
+    "uuid": "5e3c267a-6bdd-428d-8b31-418df66f5d7e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/stoneMove.anim": {
+    "time": 1629971892000,
+    "uuid": "53ec5750-99e1-4383-9697-2e30189515b8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/tornado.anim": {
+    "time": 1629971892000,
+    "uuid": "ba93f4ae-6d73-49f2-9cf8-588ce1ef95a2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrow.FBX": {
+    "time": 1629341888000,
+    "uuid": "483d3d75-3805-4fb8-b11d-9d4cc873a882",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrow.prefab": {
+    "time": 1629971892000,
+    "uuid": "c85ac244-604f-4c95-a639-0f7d034bca3d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowAll.prefab": {
+    "time": 1629971892000,
+    "uuid": "a351f5ef-f956-4899-bc01-9caad7196ceb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowFire.prefab": {
+    "time": 1629971892000,
+    "uuid": "ed3e0f33-7008-405b-977e-33d331997300",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowFireIce.prefab": {
+    "time": 1629971892000,
+    "uuid": "10603eed-bbd3-465f-a3d3-5a2883964190",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowIce.prefab": {
+    "time": 1629971892000,
+    "uuid": "7c6a88ec-ac29-4b4e-b876-9fa2e08486fd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightning.prefab": {
+    "time": 1629971892000,
+    "uuid": "486ed834-cb1b-45db-8ba0-d02130f6bc05",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightningFire.prefab": {
+    "time": 1629971892000,
+    "uuid": "11930cd1-7541-4636-ab6f-4770bc03f1f4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightningIce.prefab": {
+    "time": 1629971892000,
+    "uuid": "a8a4060c-7813-4d8b-8265-8c42e7f828c3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud/sky01.mtl": {
+    "time": 1629699756000,
+    "uuid": "577ba711-4277-4fa1-9935-9bd388bee0f4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud/sky01.png": {
+    "time": 1629699756000,
+    "uuid": "88a891bb-79bc-4c06-a51e-161a065618ea",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/coinTrail/coinTrail.prefab": {
+    "time": 1629971892000,
+    "uuid": "12ef42c0-9611-448b-ba31-2b00574ef50a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/energyBall/energyBall.prefab": {
+    "time": 1629971892000,
+    "uuid": "055558c8-792f-46cf-8588-db72bee9d354",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall/fireBall.prefab": {
+    "time": 1629971892000,
+    "uuid": "9ad209ac-4111-45a4-a8b1-0cb91a7a2bc6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall/fireBallBig.prefab": {
+    "time": 1629971892000,
+    "uuid": "b1732532-72cf-4ef6-ab30-167c8976993d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/groundLight/groundLight.prefab": {
+    "time": 1629971892000,
+    "uuid": "62313bce-0798-46bd-ad27-6d3fee081dc3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/heartEff/heartEff.prefab": {
+    "time": 1629971892000,
+    "uuid": "fd452ee3-db01-43f9-a090-1a3f9c5ac916",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hellFireEff/hellFireEff.prefab": {
+    "time": 1630293512000,
+    "uuid": "a5b852cd-fb0f-4e3c-b63f-1a1231b83410",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hit.prefab": {
+    "time": 1629971892000,
+    "uuid": "f6abeb72-0c89-4750-91bd-2921e76b2bc7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFire.prefab": {
+    "time": 1629971892000,
+    "uuid": "ba2f61c2-9aba-4044-9bc6-e1b8155a1be6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFireBall1.prefab": {
+    "time": 1630293512000,
+    "uuid": "5309ea36-ed7d-424c-b34c-061c08025b02",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFireBall2.prefab": {
+    "time": 1630293512000,
+    "uuid": "3cd9ab71-5591-46ca-bafb-08e500066f6a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitIce.prefab": {
+    "time": 1629971892000,
+    "uuid": "010b214f-57c5-4944-ade2-a69a59e4c5b9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitLightning.prefab": {
+    "time": 1629971892000,
+    "uuid": "7f579319-7bb7-4f6f-bb79-9fe7799ef68c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFires.prefab": {
+    "time": 1629971892000,
+    "uuid": "beea5814-7822-47b8-a7a9-899683bdcc2d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFiresAni.anim": {
+    "time": 1629971892000,
+    "uuid": "f5202fe7-2dbd-439d-9692-dd837d2af8fb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFiresAni2.anim": {
+    "time": 1629971892000,
+    "uuid": "5432f24e-aa82-45aa-8579-f25b845d46d8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser/laser.prefab": {
+    "time": 1630293512000,
+    "uuid": "9825e25e-102c-4ee1-ac59-58448532bb4b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser/laserAni.anim": {
+    "time": 1630293512000,
+    "uuid": "14d90877-869c-48c7-a38e-cbd06b541d8d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/levelUp/levelUp.prefab": {
+    "time": 1630293512000,
+    "uuid": "ece17af7-14f9-47b5-b7a2-adec44eea0f6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/lightningChain/lightningChain.prefab": {
+    "time": 1629971892000,
+    "uuid": "c989d58f-166c-4191-9b62-3f76bfd32dc5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud1.png": {
+    "time": 1630662988000,
+    "uuid": "9a571cd7-86f2-44f5-a31a-5639830df834",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud2.png": {
+    "time": 1630662988000,
+    "uuid": "5f1e8fde-aebd-4db3-93cb-16ee9e7fcd31",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud3.png": {
+    "time": 1630662988000,
+    "uuid": "626a5a92-accf-4bfa-a256-c2e56976e720",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/loadingPanel1.prefab": {
+    "time": 1630910772000,
+    "uuid": "c890c5e6-119d-434c-b455-b9fca1f09f80",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/white.png": {
+    "time": 1630906764000,
+    "uuid": "77c2c400-ba07-43d6-8b6c-344c8746e7da",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/guangzhu.FBX": {
+    "time": 1629341888000,
+    "uuid": "82b1cb22-2441-4318-9c38-34f7d7f790f5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/meshLineup.FBX": {
+    "time": 1629341888000,
+    "uuid": "2eb0ccf9-33ce-4c74-b807-303b21af5cf9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/warpGate.FBX": {
+    "time": 1629341888000,
+    "uuid": "2961b396-3cee-45ed-9a9c-a39657e8fff4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/wind_mesh.FBX": {
+    "time": 1629341888000,
+    "uuid": "6bef8684-d581-4e36-b83b-d32cd5e389d6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/yuanzhu_gao.FBX": {
+    "time": 1629699756000,
+    "uuid": "778e9e72-eb83-4436-bcc1-03a4c4a44bc4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/recovery/recovery.prefab": {
+    "time": 1629971892000,
+    "uuid": "c57501ed-4730-4f38-b642-2ec84a449817",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/revival/revival.prefab": {
+    "time": 1630293512000,
+    "uuid": "d173c60c-183e-4972-b1d7-c8837e1a6dbd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/runSmoke/runSmoke.prefab": {
+    "time": 1629971892000,
+    "uuid": "f0dc6e46-878a-4359-819c-676bc8f03294",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/AEWave2.mtl": {
+    "time": 1629699756000,
+    "uuid": "8e9fcef0-db7b-407a-9c77-ab6c0148f4ff",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/AEWave2.png": {
+    "time": 1629699756000,
+    "uuid": "76f23999-c49d-4a54-b326-398a913abe82",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray.mtl": {
+    "time": 1630662532000,
+    "uuid": "9979928e-795d-476a-84d3-8f1bfe5a3023",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray.png": {
+    "time": 1629341888000,
+    "uuid": "9a489369-9a0b-4bc7-9811-7f1b5e2c1571",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray_trail.mtl": {
+    "time": 1629341888000,
+    "uuid": "072e6d65-90cd-4596-882e-703942f573ca",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_Leaf01.mtl": {
+    "time": 1629699756000,
+    "uuid": "116b7004-96d7-427d-8fd7-f372b180347b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_Leaf01.png": {
+    "time": 1629699756000,
+    "uuid": "1abc7e70-3c73-4995-9d47-b92f613d1d25",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched-001.mtl": {
+    "time": 1629341888000,
+    "uuid": "0458d8b4-b661-4ce7-8963-01717e723b92",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched.mtl": {
+    "time": 1629341888000,
+    "uuid": "c4651ed8-b379-423e-bfa5-e0fa8b646525",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched.png": {
+    "time": 1629341888000,
+    "uuid": "391a7826-7b0b-4e9e-8019-b17d8d5544f2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Effects_Textures_1668-1.mtl": {
+    "time": 1629341888000,
+    "uuid": "1e75704d-4b33-4c16-ade1-d959c5da7e59",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Effects_Textures_1668-1.png": {
+    "time": 1629341888000,
+    "uuid": "6b3bd2d0-d994-45ae-bbd3-d4ca80f3b76c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/FX_RingWave_008_TEX_KKJ.mtl": {
+    "time": 1629699756000,
+    "uuid": "ef52a240-d4d5-4699-a2dc-2c94d938a53e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/FX_RingWave_008_TEX_KKJ.png": {
+    "time": 1629699756000,
+    "uuid": "41960d9a-de34-4702-ab7e-732843723487",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Fog01.mtl": {
+    "time": 1629699756000,
+    "uuid": "f3cf95ec-8b77-4444-b8f2-2354fb405332",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Fog01.png": {
+    "time": 1629699756000,
+    "uuid": "0fa77c39-a759-40aa-972e-00f178552b58",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Lightningblue1x5.mtl": {
+    "time": 1629341888000,
+    "uuid": "2e16d9a6-15f4-4ab8-bbc9-da3ed9d8c816",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Lightningblue1x5.png": {
+    "time": 1629341888000,
+    "uuid": "23c31425-f572-45a8-8401-fb8559489d95",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Flash_01.mtl": {
+    "time": 1629341888000,
+    "uuid": "67bc4777-9407-40c2-a992-00d58c66a40a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Flash_01.png": {
+    "time": 1629341888000,
+    "uuid": "45bd3e22-c511-43ec-80b0-2d1e00f658ae",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Heal_01.mtl": {
+    "time": 1629341888000,
+    "uuid": "8b0bcedf-0866-41a0-b213-a9a2a4d35fe0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Heal_01.png": {
+    "time": 1629341888000,
+    "uuid": "06fa91e3-a72e-46f0-9d2e-fa9d775c6aff",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Ring_002.mtl": {
+    "time": 1629341888000,
+    "uuid": "1261b077-dabd-4b38-a9e8-9b66d7fee66d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Ring_002.png": {
+    "time": 1629341888000,
+    "uuid": "19c42cb0-b15e-4fb4-8da1-ae7772ecf732",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Rock01.mtl": {
+    "time": 1629341888000,
+    "uuid": "7b6bbbe0-8b22-45df-ba0e-baf82309e68d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Rock01.png": {
+    "time": 1629341888000,
+    "uuid": "9819ff63-b815-464e-94be-79125c0d6234",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle.mtl": {
+    "time": 1629341888000,
+    "uuid": "323e004f-ab7a-4891-9f9b-ceb17685aa81",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle.png": {
+    "time": 1629341888000,
+    "uuid": "41089c88-9060-4395-a959-321f2b5aa96f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircleGlow.mtl": {
+    "time": 1629341888000,
+    "uuid": "a34e381d-9509-40ab-b1ea-728e502a0f60",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircleGlow.png": {
+    "time": 1629341888000,
+    "uuid": "24aaf777-a329-4577-8e48-f68f67725494",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle_di.mtl": {
+    "time": 1629341888000,
+    "uuid": "fae9ccc2-b46e-4f64-84fe-6890210621f8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/WFX_T_MF Side RIFLE1 A8.mtl": {
+    "time": 1629341888000,
+    "uuid": "ed2d235e-26db-4684-8fc2-7c2deb21d2dd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/WFX_T_MF Side RIFLE1 A8.png": {
+    "time": 1629341888000,
+    "uuid": "3c18a467-cd30-4170-adda-c865c7239b6c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dn_alch_0001.mtl": {
+    "time": 1629341888000,
+    "uuid": "2ac4e38b-6044-4ff1-80b8-4b909d0a191f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dn_alch_0001.png": {
+    "time": 1629341888000,
+    "uuid": "6975d252-a7c4-491d-825e-5c4a82a76b65",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dust_puff_particle_sheet.mtl": {
+    "time": 1629341888000,
+    "uuid": "b4411404-52b0-4bd7-8f59-c657849eea94",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dust_puff_particle_sheet.png": {
+    "time": 1629341888000,
+    "uuid": "741686d0-a2a1-4e2a-8069-baff6cab92e1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_1.mtl": {
+    "time": 1630387980000,
+    "uuid": "3820ee79-b557-4ea4-85bd-0e2eeebe4327",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_1.png": {
+    "time": 1629341888000,
+    "uuid": "c042606a-1eb2-4f88-b3c5-06c27938439a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_cold_bs.mtl": {
+    "time": 1629341888000,
+    "uuid": "28542a7f-896d-438c-af79-589adc88ffe5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_cold_bs.png": {
+    "time": 1629341888000,
+    "uuid": "ca750a88-c7b7-491d-9e59-84e308450a63",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_red.mtl": {
+    "time": 1629341888000,
+    "uuid": "6793311a-ca7b-493c-8b0a-9648718a1e49",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_red.png": {
+    "time": 1629341888000,
+    "uuid": "3d8b0090-8259-444d-aace-ae79935119d5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_zi.mtl": {
+    "time": 1629341888000,
+    "uuid": "3c6dbf8f-fafd-4942-945b-b5e9fe7fbdf5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_zi.png": {
+    "time": 1629341888000,
+    "uuid": "5045f6c1-1164-42c4-93cf-f49cca5eca73",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/falloffLightbeam.mtl": {
+    "time": 1629341888000,
+    "uuid": "73bba259-4391-4643-8c51-ba9e48c517bc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/falloffLightbeam.png": {
+    "time": 1629341888000,
+    "uuid": "19761300-a118-4a2a-b42a-a816435c51ce",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/feixing4.mtl": {
+    "time": 1629341888000,
+    "uuid": "3289816d-3cf0-4cc9-8728-b71597270ea6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/feixing4.png": {
+    "time": 1629341888000,
+    "uuid": "dcc6c0a3-8904-4425-89bd-d0797b8e7066",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow.mtl": {
+    "time": 1629341888000,
+    "uuid": "eebc2d2f-a1e8-4569-9bbc-f266dde83553",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow.png": {
+    "time": 1629341888000,
+    "uuid": "f9415a32-0ef2-4456-964c-78c59adea628",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_eff.mtl": {
+    "time": 1629341888000,
+    "uuid": "6544437d-3cdc-414f-8ec8-fb286c793561",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_effadd.mtl": {
+    "time": 1629341888000,
+    "uuid": "a86b55f1-ad6e-4530-9dfa-bf5bb7a32c95",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_2_sheet.mtl": {
+    "time": 1629341888000,
+    "uuid": "b1f2bf49-5592-4dc3-803c-3b12c4d74121",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_2_sheet.png": {
+    "time": 1629341888000,
+    "uuid": "718cf0b1-c57d-4228-9bfd-1cbc6e4ae88e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_4_sheet.mtl": {
+    "time": 1629341888000,
+    "uuid": "006b536d-ebff-4a32-aaa1-b910000a2fe6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_4_sheet.png": {
+    "time": 1629341888000,
+    "uuid": "9965e7f3-4973-4ff3-b320-0cdb52bfc035",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/glow09.mtl": {
+    "time": 1629341888000,
+    "uuid": "e58678c1-7568-4c7c-85b1-b5527ae2fe69",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/glow09.png": {
+    "time": 1629341888000,
+    "uuid": "ca43c48a-16c8-4c08-b1b6-c6809cb15532",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/ice_pieces_2_color_sheet_new.mtl": {
+    "time": 1629341888000,
+    "uuid": "deb43287-1a54-4f46-b96e-c2ab9f4410c0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/ice_pieces_2_color_sheet_new.png": {
+    "time": 1629341888000,
+    "uuid": "c76e4b6e-3cb3-4678-8988-81125445d6b4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/impact_new_2_a_new_sheet.mtl": {
+    "time": 1629341888000,
+    "uuid": "6015e595-bdb4-4e2f-9188-e486ce5c717e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/impact_new_2_a_new_sheet.png": {
+    "time": 1629341888000,
+    "uuid": "dcdb6ba0-a642-4cbc-a3c0-dd09eba4b909",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/jetFires.mtl": {
+    "time": 1709172701521.1667,
+    "uuid": "1a3b7a33-1a6d-4a52-9e99-66a9c3fb1fc8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/lightning_purple_2_sheet.mtl": {
+    "time": 1629341888000,
+    "uuid": "78dbcb4b-6456-44a9-b961-f3a7c9288664",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/lightning_purple_2_sheet.png": {
+    "time": 1629341888000,
+    "uuid": "fc96283e-a39e-412f-8375-06ba0cad4d6b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/snow_dot.mtl": {
+    "time": 1629341888000,
+    "uuid": "27dee86a-966c-44ad-856a-ba572925244f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/snow_dot.png": {
+    "time": 1629341888000,
+    "uuid": "3b68263d-4649-4a80-b60b-2abd234c06a9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/storm_sharpshock01.mtl": {
+    "time": 1629341888000,
+    "uuid": "28eca426-162c-4468-9977-c8fccf1c4f36",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/storm_sharpshock01.png": {
+    "time": 1629341888000,
+    "uuid": "e5b6eabd-cdbd-4756-a6d0-0bcb6b7d4385",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/vulcan_projectile.mtl": {
+    "time": 1629341888000,
+    "uuid": "790fcef9-c32c-4833-8b3c-d66a873ced32",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/vulcan_projectile.png": {
+    "time": 1629341888000,
+    "uuid": "e1a87a8e-75a4-4994-810b-8aa3bb482de7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wakka02.mtl": {
+    "time": 1629341888000,
+    "uuid": "fa4a0807-8607-419f-b46b-baa0c8410fd9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wakka02.png": {
+    "time": 1629341888000,
+    "uuid": "784ea5b6-6fbf-427e-a76d-5fe3464731af",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wavering02_02.mtl": {
+    "time": 1629341888000,
+    "uuid": "b5e6c317-5fd9-42f6-a3e0-eeffd5307cdd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wavering02_02.png": {
+    "time": 1629341888000,
+    "uuid": "f7db6a83-cf31-481f-9938-34d5574a4f57",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/won-light-up-sb.mtl": {
+    "time": 1629341888000,
+    "uuid": "0213bb46-1ffe-4926-8f5d-d1d121cb1395",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/won-light-up-sb.png": {
+    "time": 1629341888000,
+    "uuid": "6b683ce5-ebc2-47f1-97de-0d67b253efc8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/tornado/tornado.prefab": {
+    "time": 1630030939000,
+    "uuid": "7323eeef-568d-486f-b0e6-f6fc85c8f22b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningCircle.prefab": {
+    "time": 1629971892000,
+    "uuid": "1358055a-0ac7-4422-b8d4-8de4254bdabb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningLine.prefab": {
+    "time": 1629971892000,
+    "uuid": "20ac9102-6063-4a83-a2f7-c1df5c479eba",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningStrip.prefab": {
+    "time": 1629990584000,
+    "uuid": "f07c5d23-3838-421d-b3ea-53db66478d7c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_tiao.mtl": {
+    "time": 1629341888000,
+    "uuid": "f7c4682a-8b16-4b14-9482-2332661125c1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_tiao.png": {
+    "time": 1629341888000,
+    "uuid": "61e5b3da-3aaa-4254-98bc-d3b4d60b9f1b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_xian.mtl": {
+    "time": 1629694067000,
+    "uuid": "b4e8aa9c-3653-4fea-a86f-c58c38cab77a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_xian.png": {
+    "time": 1629341888000,
+    "uuid": "b5f2fb9d-1403-4eaa-bb48-6b5fb5265545",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_yuan.mtl": {
+    "time": 1629341888000,
+    "uuid": "79aa50b9-7833-4b03-8afb-20a96e40a287",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_yuan.png": {
+    "time": 1629341888000,
+    "uuid": "fc2f4a7e-a015-4419-b846-c28c1b3eac12",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate/warpGate.prefab": {
+    "time": 1629971892000,
+    "uuid": "71434361-245f-47de-be20-6e87243ea3c0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate/warpGate_ani.anim": {
+    "time": 1629971892000,
+    "uuid": "eae7f7e0-ce6e-4ef8-a8c0-11df1ba1ee18",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew": {
+    "time": 1629971892000,
+    "uuid": "5b4c0601-4259-485a-b078-4e76c0a8a070",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew": {
+    "time": 1629971892000,
+    "uuid": "4ba4e014-4e17-4bd6-9ee7-16fe753c76a8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon": {
+    "time": 1629971892000,
+    "uuid": "8a8d585e-43f3-45d1-8e42-1670e9981988",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew": {
+    "time": 1629971892000,
+    "uuid": "d974d59c-0cab-4a77-b272-941664a908cc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew": {
+    "time": 1629971892000,
+    "uuid": "6c9df30e-76a1-48f6-a82e-2d09514c1e64",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan": {
+    "time": 1629971892000,
+    "uuid": "325207ee-251f-4944-824c-46c038ff11c5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan": {
+    "time": 1629971892000,
+    "uuid": "ac2fe952-36d4-4251-8e5e-cd999e9f04d2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.FBX": {
+    "time": 1629341888000,
+    "uuid": "e4c46cb3-aa05-46b6-accb-1e79a885146e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.jpg": {
+    "time": 1629341888000,
+    "uuid": "0555c3a5-976d-42dd-b781-b2dc0e2283d0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.mtl": {
+    "time": 1629962246000,
+    "uuid": "613347ca-aa29-457f-8f6d-cabba3812b9f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.prefab": {
+    "time": 1629971892000,
+    "uuid": "9ae0ba3d-c550-45f1-96b8-1eec7bb56ae4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heart.jpg": {
+    "time": 1629551637000,
+    "uuid": "6cf5ff22-dd01-4516-963e-3801e69c29fb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heart.mtl": {
+    "time": 1629962246000,
+    "uuid": "399baf99-fa2d-4a3d-8a4a-eee3aed52762",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heartA.FBX": {
+    "time": 1629341888000,
+    "uuid": "7bcb5ee9-3391-4309-bfcf-110050cc6f35",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heartA.prefab": {
+    "time": 1629971892000,
+    "uuid": "5dee8633-0079-4f9d-883a-e382a4addeae",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01": {
+    "time": 1629971892000,
+    "uuid": "9ee6734c-3b74-4d75-8a1e-5c5f6e273061",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an": {
+    "time": 1630573403000,
+    "uuid": "ecdba005-09cd-4689-85d2-24aa2503b86d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex": {
+    "time": 1629971893000,
+    "uuid": "f9dc894a-6932-46e9-8af8-8cbf40f0e488",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBox01.png": {
+    "time": 1629341888000,
+    "uuid": "0ece564b-38ae-4686-9eb0-75cd9cad7492",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBox02.png": {
+    "time": 1629341888000,
+    "uuid": "afed2042-f740-4590-8286-d8396fcdcfa2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtn01.png": {
+    "time": 1629341888000,
+    "uuid": "4999092e-b4bc-4dee-b39c-69128550c104",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtn02.png": {
+    "time": 1629341888000,
+    "uuid": "54131545-d3fb-41e7-a739-acbdb5e24365",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtnHome.png": {
+    "time": 1629341888000,
+    "uuid": "cb80dbf6-a4b7-4bf1-ba95-58bb22bcfa55",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtnReplay.png": {
+    "time": 1629341888000,
+    "uuid": "d4b52a8d-7069-471e-993e-d0debaa5f49d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonIconPlay.png": {
+    "time": 1629341888000,
+    "uuid": "2e05ad2c-985e-48fb-b246-c1dd29f33ffc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonImgShopLabel.png": {
+    "time": 1629341888000,
+    "uuid": "cf93a112-bc5c-4995-a977-b2ea74bf9b63",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/load.png": {
+    "time": 1629341888000,
+    "uuid": "16e0d9d2-7fd3-44e9-8c94-b279ac1b5242",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/move01.png": {
+    "time": 1629341888000,
+    "uuid": "e585beb9-3d7b-4d9c-ae85-05c8a67dd626",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/move02.png": {
+    "time": 1629341888000,
+    "uuid": "204efbe2-5701-4fd4-baa5-db3de570b18a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/singleColor.png": {
+    "time": 1629341888000,
+    "uuid": "f2338dd2-06c1-4e06-b313-e7b1075f0925",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/tipBg.png": {
+    "time": 1629341888000,
+    "uuid": "2d97ae74-570e-410c-920d-a1484656c890",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/auto-atlas.pac": {
+    "time": 1629341888000,
+    "uuid": "ea267b8a-28c5-401c-b845-7ec71a43c553",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood01.png": {
+    "time": 1629893523000,
+    "uuid": "7b89add9-df42-42a5-8b54-ddeb2becd406",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood02.png": {
+    "time": 1629893523000,
+    "uuid": "99eaa29e-7fe4-4f23-9a1a-7da5bf1d56a3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood03.png": {
+    "time": 1629893523000,
+    "uuid": "1a04a3e5-ca0c-4d15-add0-7507ac05f219",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood04.png": {
+    "time": 1629893523000,
+    "uuid": "65d4f8db-5d4a-4409-8d92-2656daeec15b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood05.png": {
+    "time": 1629341888000,
+    "uuid": "f52ef7c0-2ddb-43d7-986c-9b34815c06ee",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood06.png": {
+    "time": 1629893512000,
+    "uuid": "05af0b54-a7f3-4906-b658-88bd8109d65a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss01.png": {
+    "time": 1629341888000,
+    "uuid": "ccdbf7d3-740b-4f80-aabd-a549e66da48a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss02.png": {
+    "time": 1629341888000,
+    "uuid": "2109ccf8-f8d6-4a06-a1fc-3db37ca02320",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss03.png": {
+    "time": 1629341888000,
+    "uuid": "77c49ebc-39b2-4c3b-9a46-d897cf60e1a5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxGold.png": {
+    "time": 1629341888000,
+    "uuid": "fd20e919-60c2-49c0-8e37-ab3e87513fba",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxLevel.png": {
+    "time": 1629341888000,
+    "uuid": "937064e3-6f49-44a5-b908-107497a4dad3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxSkillIcon.png": {
+    "time": 1629341888000,
+    "uuid": "d71d176c-d7b8-464f-9db7-7a6b7bd1aad1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnClose.png": {
+    "time": 1629341888000,
+    "uuid": "ccc88438-f748-4adb-995b-c97d9a6ff097",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnHome.png": {
+    "time": 1629341888000,
+    "uuid": "2ae33982-847a-4dea-a4a8-44d740615199",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnMusicoff.png": {
+    "time": 1629341888000,
+    "uuid": "2b9b82bb-6daa-4196-89e9-58c1540715ef",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnMusicon.png": {
+    "time": 1629341888000,
+    "uuid": "6423361a-18bb-4bac-8de7-2ab7aa3b15c1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnPlay.png": {
+    "time": 1629341888000,
+    "uuid": "3124ca83-487b-46ce-97ea-e4a25b533356",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnRight.png": {
+    "time": 1629341888000,
+    "uuid": "52abe1cd-9433-49aa-a26a-d0f4fa9b91e7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnStop.png": {
+    "time": 1629341888000,
+    "uuid": "953648b4-ac28-42da-9d24-d16dfdf28919",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnWrong.png": {
+    "time": 1629341888000,
+    "uuid": "33b311a6-d8d6-4b57-a0d3-dcabddee3f62",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIconBoss.png": {
+    "time": 1629341888000,
+    "uuid": "09ea7777-3b36-4401-992a-c52afbddac50",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIconGold.png": {
+    "time": 1629341888000,
+    "uuid": "f464e17b-d507-4251-947c-a760319aa86e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIngStop.png": {
+    "time": 1629341888000,
+    "uuid": "5a61a939-9452-44a7-8c38-0afbeccd62ae",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightMove01.png": {
+    "time": 1629341888000,
+    "uuid": "9d24beec-7f21-498f-9855-4dd1a9071aaf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightMove02.png": {
+    "time": 1629341888000,
+    "uuid": "d945ed29-80ec-4d3f-93c0-7f016f7b29b6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/auto-atlas.pac": {
+    "time": 1629341888000,
+    "uuid": "6ad84690-fc35-437b-8ef0-1d4a5944dabe",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBox01.png": {
+    "time": 1629341888000,
+    "uuid": "81463105-a122-49b2-b4ae-14e90b56426e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBox02.png": {
+    "time": 1629341888000,
+    "uuid": "428ac82d-e65a-46b9-b465-91fda243a3ab",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBtnSetting.png": {
+    "time": 1629341888000,
+    "uuid": "600c6fdf-0e26-4201-b8e9-a8d30501ff99",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBtnStart.png": {
+    "time": 1629341888000,
+    "uuid": "5c012506-1379-47a7-9f7e-5e66058e37ca",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeFont01.png": {
+    "time": 1629341888000,
+    "uuid": "b4ad452b-34d7-490e-8bd7-d3cf84c8fc78",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconArrow.png": {
+    "time": 1629341888000,
+    "uuid": "82ffcb6f-c71e-4c69-a3f5-581837ac076b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconBest.png": {
+    "time": 1629341888000,
+    "uuid": "af4e9148-80d8-48e2-a11b-c54e1ddac70c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconMap01.png": {
+    "time": 1629341888000,
+    "uuid": "ad872603-4290-4f03-a24d-cf50f21f1292",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/logo.png": {
+    "time": 1629341888000,
+    "uuid": "c32917b3-e4d0-4c8a-be70-e193eb50c570",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/auto-atlas.pac": {
+    "time": 1629341888000,
+    "uuid": "c1dd59ad-ac5f-466f-98ec-d07162aa6f1b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg01.png": {
+    "time": 1629341888000,
+    "uuid": "c622b510-d83e-44dc-a172-40c040a7b075",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg02.png": {
+    "time": 1629341888000,
+    "uuid": "1a538ab9-658f-4aec-b2b8-88b4144639bf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg03.png": {
+    "time": 1629341888000,
+    "uuid": "bde802dc-d2fa-4907-9ef1-20b77a271e3a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/auto-atlas.pac": {
+    "time": 1629341888000,
+    "uuid": "0875364b-ad7d-4a64-9dc6-9ae036aa721d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementBox01.png": {
+    "time": 1629341888000,
+    "uuid": "f7b21230-fd23-476b-9b7d-f747d74daaf7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementHeart01.png": {
+    "time": 1629341888000,
+    "uuid": "816f5b9b-51c5-4b75-8640-51227b8b1007",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementHeart02.png": {
+    "time": 1629341888000,
+    "uuid": "bc314a61-dd51-4a48-a3ae-5c61f74a5f74",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementImgLight.png": {
+    "time": 1629341888000,
+    "uuid": "3607b2b4-e37f-40ca-9298-7343377ec207",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementTitleLose.png": {
+    "time": 1629341888000,
+    "uuid": "64e1074e-27fa-4c2d-8744-b92a6f6efa3b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementTitleWin.png": {
+    "time": 1629341888000,
+    "uuid": "b626eb60-98c1-45db-9916-f47158e7508e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/aulaDie.mp3": {
+    "time": 1630483810000,
+    "uuid": "074beb59-972e-45b5-8bcb-fcf286362183",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/boomDragonDie.mp3": {
+    "time": 1630483810000,
+    "uuid": "a992cbc6-981b-4a11-abad-dca28bc48ee7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/click.mp3": {
+    "time": 1630483810000,
+    "uuid": "77ddb3b5-14bf-4cc5-807e-07e04f95836c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/dragonDie.mp3": {
+    "time": 1630483810000,
+    "uuid": "4c6d05f1-2787-41d0-84e7-8ca242be7173",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/energyBall.mp3": {
+    "time": 1630483810000,
+    "uuid": "8b4ab97d-9eca-4cea-9eea-f8535d252b3c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fire.mp3": {
+    "time": 1630492782000,
+    "uuid": "29001cb8-c405-4745-8f92-b263fa05f5f0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fireBall.mp3": {
+    "time": 1630483810000,
+    "uuid": "b4139343-7099-4e14-aff9-f6640c8cada9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fireBallBig.mp3": {
+    "time": 1630483810000,
+    "uuid": "d24f1bc1-6d87-4a90-a198-4b5369afcddf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/footStep1.mp3": {
+    "time": 1630483810000,
+    "uuid": "8c9d4367-d9ff-4ee1-b9e3-c00496ab340f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/footStep2.mp3": {
+    "time": 1630483810000,
+    "uuid": "a3473650-ab8b-4996-8ff7-52ac1a5c13d0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/getSkill.mp3": {
+    "time": 1630483810000,
+    "uuid": "6fc18e80-d31d-4255-81fb-41da40275ad1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/goldCollect.mp3": {
+    "time": 1630708609000,
+    "uuid": "e165082e-76aa-49ed-be1e-b74fc8c2859a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/goldDrop.mp3": {
+    "time": 1630483810000,
+    "uuid": "6021bc12-77b1-44df-a415-ed4d4d22109c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hellFireDie.mp3": {
+    "time": 1630483810000,
+    "uuid": "b05270bb-b488-476d-9e71-cda563c0886d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hitMonster.mp3": {
+    "time": 1630483810000,
+    "uuid": "19dbdafe-4ece-47e2-97a5-b1611bbc72f4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hitPlayer.mp3": {
+    "time": 1630483810000,
+    "uuid": "96b4df51-e6ec-4554-86c7-54e446b2d95c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/homePanelClick.mp3": {
+    "time": 1630483810000,
+    "uuid": "149275b6-bc0f-4e02-8ef5-ca5628887adc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/ice.mp3": {
+    "time": 1630483810000,
+    "uuid": "2d6bb43a-4d0d-4d40-8195-c3212cefbdb0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/jetFire.mp3": {
+    "time": 1630483810000,
+    "uuid": "e9c91782-d550-4e64-b973-d49fce4bb8d2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/laser.mp3": {
+    "time": 1630483810000,
+    "uuid": "493900e8-8865-410f-abea-05c8d04faec5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/lightning.mp3": {
+    "time": 1630483810000,
+    "uuid": "b9011a0f-6223-426d-95e3-766612a941d9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/loose.mp3": {
+    "time": 1630483810000,
+    "uuid": "1475e25e-303a-473f-a497-162c0b6cfc72",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/magicianDie.mp3": {
+    "time": 1630483810000,
+    "uuid": "59b214c2-5e8c-41dc-93d5-ded3ac6ffb9a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/player01Die.mp3": {
+    "time": 1630483810000,
+    "uuid": "59119a50-e18c-449d-9438-1f4e1b409dae",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/recovery.mp3": {
+    "time": 1630483810000,
+    "uuid": "2fa44aaa-c4ea-4fee-a518-4e99926dbc95",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/revive.mp3": {
+    "time": 1630483810000,
+    "uuid": "7b0248d6-a172-464b-a9e7-2e16f3608911",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/sell.mp3": {
+    "time": 1630483810000,
+    "uuid": "2d96fe29-0041-4b27-9179-a9489bf0b50f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/showWarpGate.mp3": {
+    "time": 1630483810000,
+    "uuid": "8092c5be-0ce9-42d1-a3b0-0262ef4a0d83",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/tornado.mp3": {
+    "time": 1630483810000,
+    "uuid": "e4670cc8-104e-49bd-9ace-f06911cb942b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow": {
+    "time": 1629971893000,
+    "uuid": "5c683fbc-7430-4c97-8267-e45ebe1a01d2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersion": {
+    "time": 1629971893000,
+    "uuid": "6ce239de-a7a5-41c5-9253-96a278ab65cb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersionSurround": {
+    "time": 1629971893000,
+    "uuid": "4e6518c2-5110-48b5-a62e-acd819e1b757",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/energyBall": {
+    "time": 1630378142000,
+    "uuid": "83f7c67a-ca10-4bc8-aaf2-9321f6da15d4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBall": {
+    "time": 1629971893000,
+    "uuid": "8c4a7bfc-179d-4fbf-b255-db3b2c30fa4a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBallBig": {
+    "time": 1629971893000,
+    "uuid": "5ffd25e4-90ab-4ed4-bc16-5b7b579d146c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit": {
+    "time": 1630294115000,
+    "uuid": "0f06b196-f392-4d83-8ca4-17ab7bf6a0ae",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/jetFires": {
+    "time": 1629971893000,
+    "uuid": "7042c663-725f-4fae-aea0-a2eafc4b91ca",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/laser": {
+    "time": 1630293884000,
+    "uuid": "5a452cfb-ebe9-4ca0-b490-7789635ce246",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/levelUp": {
+    "time": 1630293971000,
+    "uuid": "d0a9f17f-44b2-4373-a4e6-2feb96fd3446",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/lightningChain": {
+    "time": 1629971893000,
+    "uuid": "c5a39dcd-cf64-428f-a8a4-f1ed36ef5a57",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/recovery": {
+    "time": 1629971893000,
+    "uuid": "4d1f0a74-3680-4644-aea2-334845dc398c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/runSmoke": {
+    "time": 1629971893000,
+    "uuid": "29da19b5-a251-49fa-91f9-5438eb9e8774",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/tornado": {
+    "time": 1630033153000,
+    "uuid": "599ac51b-75c7-4e08-9a4b-60599284564f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/trail": {
+    "time": 1629971893000,
+    "uuid": "bb530e8c-859d-42c3-b4cb-36d8bce6590a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning": {
+    "time": 1629971893000,
+    "uuid": "ff1e9bb3-c2df-4c2b-8fed-a6e95f60112c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/boss": {
+    "time": 1630292149000,
+    "uuid": "ee7f24b7-353e-4aad-a2d8-7e376ca7547c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/gold": {
+    "time": 1629971893000,
+    "uuid": "3c003b12-4a56-4783-ac05-d27b858ce67d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart": {
+    "time": 1629971893000,
+    "uuid": "a086b980-da83-41fa-af64-97af4ad98437",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster": {
+    "time": 1630388200000,
+    "uuid": "3ba5893e-ba90-47ac-9c3c-011e811936d2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc": {
+    "time": 1629971893000,
+    "uuid": "48417ecb-c891-4ea2-a85b-df9bbe56fb04",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle": {
+    "time": 1630576597000,
+    "uuid": "43d6107d-88b2-479f-8102-0c900133e091",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/player": {
+    "time": 1630555036000,
+    "uuid": "9811a8e0-3690-48ce-9d74-efa541396a17",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene": {
+    "time": 1630707237000,
+    "uuid": "787de35c-16a2-4f33-842a-1d595ec30c18",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/warpGate": {
+    "time": 1630464207000,
+    "uuid": "4c6fe1af-14af-4791-8e96-5f15b20b7c1f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon": {
+    "time": 1629341888000,
+    "uuid": "513e1508-e837-4f45-bf9e-d6deb6c753c9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/back": {
+    "time": 1629971893000,
+    "uuid": "ed481e39-e94c-4e22-9d7d-933a6c1c8956",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common": {
+    "time": 1629971893000,
+    "uuid": "c7cd1945-5cc3-456e-9aed-ba66091edd9d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug": {
+    "time": 1629971893000,
+    "uuid": "8478117e-9938-4ec5-acdb-939903b925d5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight": {
+    "time": 1629971893000,
+    "uuid": "c626eaa2-19cd-4a79-b7dd-28abf2797145",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/home": {
+    "time": 1629971893000,
+    "uuid": "b1cb3cee-2309-4817-90e6-553dabec1cdd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/loading": {
+    "time": 1630913160000,
+    "uuid": "97afbedc-123b-4ec7-8caa-c7f37d3ccc42",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause": {
+    "time": 1629971893000,
+    "uuid": "cba6e867-4d6c-448f-ac16-09d115d5f8ad",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/revive": {
+    "time": 1629971893000,
+    "uuid": "d7590572-80c4-49f2-820a-bbaaa2df292a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/setting": {
+    "time": 1629971893000,
+    "uuid": "61323161-7329-4e1a-944b-245da5b52dd7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/settlement": {
+    "time": 1629971893000,
+    "uuid": "4f1a2200-ee78-4bbb-96ed-9c8449c9838d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop": {
+    "time": 1630014645000,
+    "uuid": "e8f25b4f-9794-49fe-b310-33a28f28422e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill": {
+    "time": 1630014645000,
+    "uuid": "3de59d80-c8bd-465e-a39a-412d7500bfaa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrContinuous.png": {
+    "time": 1629341888000,
+    "uuid": "c2733bc8-d53c-439c-890e-e2848172faa0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowDouble.png": {
+    "time": 1629341888000,
+    "uuid": "b724bdc9-89b9-4c7f-bc66-b23025bf6260",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowFire.png": {
+    "time": 1629341888000,
+    "uuid": "8080d908-7364-48d0-85d5-3e6a6f975529",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowLaunch.png": {
+    "time": 1629341888000,
+    "uuid": "33defaed-be3f-4a6c-9237-94c3c731b4c5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowLightning.png": {
+    "time": 1629341888000,
+    "uuid": "a3b7a439-0a2f-4038-aa6a-d9343855e80e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowPenetrate.png": {
+    "time": 1629341888000,
+    "uuid": "1b90f59a-98c0-4595-a498-e942125cee10",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowRebound.png": {
+    "time": 1629341888000,
+    "uuid": "6828bf01-2266-4384-9ba6-cf8f0dfc3975",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowReverse.png": {
+    "time": 1629341888000,
+    "uuid": "200dbbe9-1596-4230-82e7-2ef3cb6df35d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowSide.png": {
+    "time": 1629341888000,
+    "uuid": "3b3c5a49-bf59-4604-b287-084f192fabf4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowUmbrella.png": {
+    "time": 1629341888000,
+    "uuid": "1c178f13-fbe9-4be8-b367-e107c3e23dc1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowice.png": {
+    "time": 1629341888000,
+    "uuid": "dd138ad1-0505-4363-992a-03ab5cfabe03",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/bloodthirsty.png": {
+    "time": 1629341888000,
+    "uuid": "a1f75296-5bef-4d83-b2e2-d32031bef323",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/moveSpeed.png": {
+    "time": 1629341888000,
+    "uuid": "44d6af5f-bc8a-4a20-b9cd-da71c803472f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttack01.png": {
+    "time": 1629341888000,
+    "uuid": "a55ee5e1-5179-4382-9641-58bc8fd6c4a5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttack02.png": {
+    "time": 1629341888000,
+    "uuid": "c609f61f-6774-48eb-9d24-c57f56dcb287",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttackSpeed01.png": {
+    "time": 1629341888000,
+    "uuid": "42051c0b-daad-4840-b845-1abe2e0cb774",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttackSpeed02.png": {
+    "time": 1629341888000,
+    "uuid": "01b5f1d9-587a-45aa-b921-33390e25f5bf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseCriticalHitDamage01.png": {
+    "time": 1629341888000,
+    "uuid": "6fbc1fa6-614c-41e5-bcc8-8fefe1d7bef5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseCriticalHitDamage02.png": {
+    "time": 1629341888000,
+    "uuid": "321860f6-bfee-4d15-aca0-aa37a0c8ba9a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseDodge.png": {
+    "time": 1629341888000,
+    "uuid": "91192e5d-ad73-4f4a-990f-1b57892a18b3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseHpLimit.png": {
+    "time": 1629341888000,
+    "uuid": "6a2ad1d3-abd2-4b5f-bc6f-93c366a5160b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/recovery.png": {
+    "time": 1629341888000,
+    "uuid": "880520f0-722c-4eb8-91fa-81e12b26a0b1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/dispersion.ts": {
+    "time": 1630496852000,
+    "uuid": "bac69b14-672c-43de-956c-634e99daf7f5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/dispersionSurround.ts": {
+    "time": 1630496868000,
+    "uuid": "1fdcfc6f-0dcf-4221-97e9-d7311dab662e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/energyBall.ts": {
+    "time": 1630496796000,
+    "uuid": "37dc2200-edb9-41a3-86f1-d8b2b7285207",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/fireBall.ts": {
+    "time": 1630496980000,
+    "uuid": "90320151-0fd6-4189-becc-5226e091b240",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/fireBallBig.ts": {
+    "time": 1630560827000,
+    "uuid": "07328240-f1a1-4b49-b8d2-a71cd7a9a219",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/jetFires.ts": {
+    "time": 1630290151000,
+    "uuid": "20cb3ada-35b4-40fd-8625-13b7241b5363",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/laser.ts": {
+    "time": 1630796125000,
+    "uuid": "50404f45-b987-4414-8459-c41101b2daa9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/tornado.ts": {
+    "time": 1630791296000,
+    "uuid": "c5fdbb7d-4641-4e09-a1d4-4abc002144ec",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningCircle.ts": {
+    "time": 1630856758000,
+    "uuid": "f4b57ca8-a1da-40a2-8698-bec8e59efb59",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningLine.ts": {
+    "time": 1630856747000,
+    "uuid": "249feb6d-45ea-4b0c-b3c8-ab7d221ee782",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningStrip.ts": {
+    "time": 1630856643000,
+    "uuid": "a816ba80-40db-4ab6-9fb8-5dc3915b748e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/back/backPanel.ts": {
+    "time": 1630493251000,
+    "uuid": "cb04427f-5169-4291-aea6-d5588716a622",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common/fightTip.ts": {
+    "time": 1629624559000,
+    "uuid": "4caf797a-462e-4fe8-95fd-2ded362ec096",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common/tips.ts": {
+    "time": 1629341888000,
+    "uuid": "a91d7339-e96d-451b-8be6-e1c5dbf91132",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugLevelItem.ts": {
+    "time": 1630746865000,
+    "uuid": "1cca359e-da60-4c1d-bd7e-536d8711f9fa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugPanel.ts": {
+    "time": 1630496101000,
+    "uuid": "2be65db7-a1d8-4e06-91c6-1a7f0d31bc35",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugSkillItem.ts": {
+    "time": 1630496093000,
+    "uuid": "46cbce4b-97f9-43be-8b48-de6f5e0f439f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/bossBloodBar.ts": {
+    "time": 1629341888000,
+    "uuid": "320dcfd5-ba50-4230-b973-0e657876d534",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/fightPanel.ts": {
+    "time": 1630910142000,
+    "uuid": "f952fe2c-4064-47a1-a4e6-3c2ea2d75bd4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/monsterBloodBar.ts": {
+    "time": 1630409338000,
+    "uuid": "6a19fbc5-0ddc-4b08-8049-8d6e88186878",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/playerBloodBar.ts": {
+    "time": 1629893976000,
+    "uuid": "f051d685-13b5-4106-b321-0885c8765184",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/home/homePanel.ts": {
+    "time": 1630912953000,
+    "uuid": "f5e45a31-191d-4a6b-97c8-11b5d5e31b21",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/loading/loadingPanel.ts": {
+    "time": 1630911400000,
+    "uuid": "951bdf88-060f-41cf-8dfc-331a533ab1f5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/pausePanel.ts": {
+    "time": 1630493131000,
+    "uuid": "18bb8190-59da-45a1-b28a-e1c2af56b5c7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/skillIcon.ts": {
+    "time": 1630493131000,
+    "uuid": "4a59ad11-ad22-4f11-b6df-f32cde9963c4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/skillList.ts": {
+    "time": 1629341888000,
+    "uuid": "7f90427e-9a25-46a0-8fd8-c4401ca85260",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/revive/revivePanel.ts": {
+    "time": 1630493131000,
+    "uuid": "e234ae76-c1b4-4087-8c72-d36140bc3c2f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/setting/settingPanel.ts": {
+    "time": 1630493198000,
+    "uuid": "97ae73e4-d7cf-42c1-ac80-6af6bfa7e021",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/settlement/settlementPanel.ts": {
+    "time": 1630493131000,
+    "uuid": "6bc86ee3-8b62-4d8d-9a13-b1bc3739dcf9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel/shopItem.ts": {
+    "time": 1630495604000,
+    "uuid": "049eb2f7-fbb9-4d37-9f8b-1e9c7a7a142b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel/shopPanel.ts": {
+    "time": 1630601638000,
+    "uuid": "434eb120-4e02-4469-864c-caac6796724d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill/skillItem.ts": {
+    "time": 1630496065000,
+    "uuid": "e3994c95-e6ac-4779-aa58-e82b887bc482",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill/skillPanel.ts": {
+    "time": 1630749499000,
+    "uuid": "ccff8968-5d94-4047-9b80-7adc80aaff8b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.jpg": {
+    "time": 1629341888000,
+    "uuid": "221dc9cb-1b67-4fa2-91bf-5f4ffc95a499",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.mtl": {
+    "time": 1629962246000,
+    "uuid": "cf8cf0c1-0512-4860-91b6-514ac3505749",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.prefab": {
+    "time": 1629971892000,
+    "uuid": "f6fe0552-397d-4175-855e-ca0647c9501e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aulaAll.FBX": {
+    "time": 1629341888000,
+    "uuid": "6da33594-f314-467a-9e63-af10bd5fa3f1",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.jpg": {
+    "time": 1629341888000,
+    "uuid": "9631ef51-5617-462d-a368-1fed30e8529c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.mtl": {
+    "time": 1629962246000,
+    "uuid": "3a44f926-4f42-4360-a9e6-b7ee821e9299",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.prefab": {
+    "time": 1629971892000,
+    "uuid": "6ce2ec0d-e515-4790-bc32-dd683377fd72",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragonAll.FBX": {
+    "time": 1629341888000,
+    "uuid": "f984fad7-d64c-40cb-aaa2-f7be125b734f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.jpg": {
+    "time": 1629341888000,
+    "uuid": "8367feb5-6bee-4370-b8d6-8a5a5fcc6a53",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.mtl": {
+    "time": 1629962246000,
+    "uuid": "5ef54e86-4f13-405c-9ae2-d50a9abc7d61",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.prefab": {
+    "time": 1629971892000,
+    "uuid": "ec67b26a-a7d0-407e-88db-f1ffc3ca4a5f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragonAll.FBX": {
+    "time": 1629341888000,
+    "uuid": "4f9ae863-6e2a-4f02-8306-15f22906bbe3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragonHit.mtl": {
+    "time": 1709172705212.7456,
+    "uuid": "037ff53e-1253-4aab-97b9-2effb5d78ccf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/edgeLight.effect": {
+    "time": 1629971892000,
+    "uuid": "f38bba13-68fe-4786-ac10-f324148af80d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.jpg": {
+    "time": 1629341888000,
+    "uuid": "defb84b0-9435-450f-9dfc-778bb908914a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.mtl": {
+    "time": 1629962246000,
+    "uuid": "3f2984f8-8c54-49b1-8309-d3ff959dd27b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.prefab": {
+    "time": 1629971892000,
+    "uuid": "cdd9020f-5bed-40ea-8eca-7d5a295ba3ad",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFireAll.FBX": {
+    "time": 1629341888000,
+    "uuid": "4e540908-9de0-4083-8cf4-5e2cd36f057a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.jpg": {
+    "time": 1629341888000,
+    "uuid": "cf81123a-1ebd-4559-be67-dbe8ec02eb50",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.mtl": {
+    "time": 1629962246000,
+    "uuid": "7a39c599-40b8-4a31-8418-af920ccc84af",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.prefab": {
+    "time": 1629971892000,
+    "uuid": "59124ed0-a671-4534-ba0b-25c5c73a5f6b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magicianAll.FBX": {
+    "time": 1629341888000,
+    "uuid": "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.FBX": {
+    "time": 1629341888000,
+    "uuid": "6d15dfa5-2d34-4da7-a54e-a0de2b2f39b0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.mtl": {
+    "time": 1629962246000,
+    "uuid": "155d2a78-a87c-490c-9c18-a2119acf43cd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.prefab": {
+    "time": 1629971892000,
+    "uuid": "12d64733-4f45-4a02-9a40-f37eb793f7ce",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessman.png": {
+    "time": 1629341888000,
+    "uuid": "593bde52-9380-4a40-8ed1-0a161bf7e791",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.FBX": {
+    "time": 1629341888000,
+    "uuid": "c770ba58-9ccf-4295-b03d-c8c91691b768",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.mtl": {
+    "time": 1629341888000,
+    "uuid": "d13dfed2-f1ac-4c16-a11c-fa2f9b59591c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.png": {
+    "time": 1629341888000,
+    "uuid": "2f9c7b75-f4a8-4956-b940-fd1637147779",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.prefab": {
+    "time": 1629971892000,
+    "uuid": "a0731b21-4087-406a-a4c5-10a14bf754bb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/DefaultMaterial.mtl": {
+    "time": 1709172703173.2112,
+    "uuid": "99988e8e-d9b6-456c-bae0-daa95f0b5fc5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.jpg": {
+    "time": 1629341888000,
+    "uuid": "36487bbd-7df4-45a8-951b-92dd9faa9300",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.mtl": {
+    "time": 1630637310000,
+    "uuid": "6826b480-6300-444d-95a3-9e27a0c476a3",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.prefab": {
+    "time": 1629971892000,
+    "uuid": "e5d34000-3a5d-480f-be9a-f472b070f764",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01All.FBX": {
+    "time": 1629341888000,
+    "uuid": "36dc4ba3-93f3-43b1-898b-46e9b392a617",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.mtl": {
+    "time": 1709172703445.1113,
+    "uuid": "066f692b-3ae0-406c-9c64-038903055c39",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.png": {
+    "time": 1629341888000,
+    "uuid": "42d2b4a0-61d5-4938-876b-477a833ed0c4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.FBX": {
+    "time": 1630327510000,
+    "uuid": "a01bd6de-537f-46e2-b381-4e133073b368",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.prefab": {
+    "time": 1629971892000,
+    "uuid": "16ba72d0-092e-42e7-bc2b-d5e1b9dbce7d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle.FBX": {
+    "time": 1629341888000,
+    "uuid": "8f7e089c-d423-4f08-8aec-b445b562fb7d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle.prefab": {
+    "time": 1629971892000,
+    "uuid": "653e53cb-a4c5-4029-a495-b2722205009e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle01.FBX": {
+    "time": 1629887272000,
+    "uuid": "efa9063b-4322-442f-ac00-b6e1edbdb8ce",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle01.prefab": {
+    "time": 1629971892000,
+    "uuid": "8fe794e4-c332-4e49-9fbc-97e62c169d9f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle02.FBX": {
+    "time": 1630573403000,
+    "uuid": "c073c43c-65b7-48d0-b3b8-22512cf660b2",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle02.prefab": {
+    "time": 1630573403000,
+    "uuid": "bf654357-959b-48ca-8735-de0e1576cb4f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anS.FBX": {
+    "time": 1630327510000,
+    "uuid": "6236c8db-0c62-4401-a0cb-1d7c269f954d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anS.prefab": {
+    "time": 1630327510000,
+    "uuid": "a862b2ff-3d31-4d0d-9fa0-714210608748",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.mtl": {
+    "time": 1630637149000,
+    "uuid": "db177b3a-8c75-4fc7-8f60-d6edc3efd24a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.png": {
+    "time": 1629341888000,
+    "uuid": "55e55349-c5dc-4282-a5ec-f5894161ecdb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.FBX": {
+    "time": 1629341888000,
+    "uuid": "b662c750-701d-475d-97fd-c0c966762318",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.mtl": {
+    "time": 1629341888000,
+    "uuid": "3348a9ca-0262-47b4-9ce9-d4506d1bd2fa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.png": {
+    "time": 1629341888000,
+    "uuid": "ab4cee8f-2ed3-41a8-903e-3486bf19130a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.prefab": {
+    "time": 1629971893000,
+    "uuid": "121f2956-de8b-4287-8e30-8580edda3a61",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.FBX": {
+    "time": 1629341888000,
+    "uuid": "2082577b-0e90-42c4-b1d4-d4c71dfea501",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.anim": {
+    "time": 1629971893000,
+    "uuid": "44d8d952-5e70-4b17-80d7-60eef747bc08",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.mtl": {
+    "time": 1629341888000,
+    "uuid": "8cbbca7a-4c15-4a2c-abb8-bef700dbc662",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.png": {
+    "time": 1629341888000,
+    "uuid": "7007720d-faa0-4e56-881b-58e63db42af8",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.prefab": {
+    "time": 1629971893000,
+    "uuid": "b627eacb-7f8d-4594-a544-914971f057d7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.FBX": {
+    "time": 1629341888000,
+    "uuid": "ba6289bc-d60b-4795-91eb-c3e295e52df7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.anim": {
+    "time": 1629971893000,
+    "uuid": "09f53264-cd95-4751-99ad-d516c164dd80",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.mtl": {
+    "time": 1629341888000,
+    "uuid": "d8c975b3-1b26-461c-a3a5-b5a878d5d045",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.prefab": {
+    "time": 1629971893000,
+    "uuid": "2f272ccd-2936-4324-b7e2-fed9eca7a7cf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox1.png": {
+    "time": 1629341888000,
+    "uuid": "91d9dc37-0c1c-4627-8adb-c54f51f5d688",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowAll.prefab": {
+    "time": 1629971893000,
+    "uuid": "11351de1-8e12-4b0f-9410-121065dcd01a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowFire.prefab": {
+    "time": 1629971893000,
+    "uuid": "f4e88553-2b50-4a28-81b6-45c67d3bbff5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowFireIce.prefab": {
+    "time": 1629971893000,
+    "uuid": "2e5850d8-47dc-4926-955d-a5ada2748880",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowIce.prefab": {
+    "time": 1629971893000,
+    "uuid": "7ba8312a-1d1b-4616-8381-1d4977c9f2d5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightning.prefab": {
+    "time": 1629971893000,
+    "uuid": "4e84a45f-6f00-4e80-b659-e31162c9d126",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightningFire.prefab": {
+    "time": 1629971893000,
+    "uuid": "f6112034-2ce1-4024-b6ea-3972a6bc8527",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightningIce.prefab": {
+    "time": 1629971893000,
+    "uuid": "3fcaa35f-5013-4018-a97f-7b4bd483c278",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersion/dispersion.prefab": {
+    "time": 1630378131000,
+    "uuid": "3677b6e7-c0d9-425f-b6e3-ba7030b604d0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersionSurround/dispersionSurround.prefab": {
+    "time": 1630247341000,
+    "uuid": "9398d9d9-a19b-4cb1-94f2-9a7d5cb412d4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/energyBall/energyBall.prefab": {
+    "time": 1630378142000,
+    "uuid": "593f46e0-8e8b-42dc-a196-d93eedd27195",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBall/fireBall.prefab": {
+    "time": 1629971893000,
+    "uuid": "cab8327f-e701-41b5-a947-f6d4794b3e55",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBallBig/fireBallBig.prefab": {
+    "time": 1629971893000,
+    "uuid": "f5c48fd3-8d42-48c6-b78f-55ef6f2a2448",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hit.prefab": {
+    "time": 1629971893000,
+    "uuid": "b201a756-2a50-406d-b227-4290486b36a5",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFire.prefab": {
+    "time": 1629971893000,
+    "uuid": "23d6627d-4220-472c-9e58-010878afee54",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFireBall1.prefab": {
+    "time": 1630294068000,
+    "uuid": "42c87eaf-17d1-4c30-b71e-d01faf2f0379",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFireBall2.prefab": {
+    "time": 1630294110000,
+    "uuid": "45d73b2e-0db8-4dca-afe9-f4a350406548",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitIce.prefab": {
+    "time": 1629971893000,
+    "uuid": "e719ce29-54be-4f6e-938d-4cd63239436a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitLightning.prefab": {
+    "time": 1629971893000,
+    "uuid": "d028c12b-b16c-4132-ae74-07f1ca1654a4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/jetFires/jetFires.prefab": {
+    "time": 1630358166000,
+    "uuid": "b748154d-6bbc-47a8-9436-805cfce6656c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/laser/laser.prefab": {
+    "time": 1630293815000,
+    "uuid": "69d6dd89-d946-48fc-899d-937c0f27187c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/levelUp/levelUp.prefab": {
+    "time": 1630293971000,
+    "uuid": "0071fd18-c26f-4d90-a1e1-716e1a3597cf",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/lightningChain/lightningChain.prefab": {
+    "time": 1629971893000,
+    "uuid": "be94d529-13dd-43c0-8716-e875182a53e4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/recovery/recovery.prefab": {
+    "time": 1629971893000,
+    "uuid": "9e974b95-f9de-4b41-94b3-e5f8c74b1227",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/runSmoke/runSmoke.prefab": {
+    "time": 1629971893000,
+    "uuid": "d5c943a8-ca3f-4518-a9a6-3ed27e92ef48",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/tornado/tornado.prefab": {
+    "time": 1630763063000,
+    "uuid": "2e7da608-03f3-44f2-a3fa-56c9c0c9401b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/trail/coinTrail.prefab": {
+    "time": 1629971893000,
+    "uuid": "6e87a355-9a05-4a28-8e85-c406266205ff",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningCircle.prefab": {
+    "time": 1629971893000,
+    "uuid": "e86766df-4d88-4f0f-9d3d-7be7753b8111",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningLine.prefab": {
+    "time": 1629971893000,
+    "uuid": "73b554ac-c2af-4542-95ba-68f2a2a2a21b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningStrip.prefab": {
+    "time": 1629989964000,
+    "uuid": "7091b2fb-773e-4721-be26-cee9939bb56b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/boss/dragon.prefab": {
+    "time": 1630852911000,
+    "uuid": "d4647ab4-0f67-4184-830b-4a4e0811f3cb",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/gold/gold.prefab": {
+    "time": 1629971893000,
+    "uuid": "a9dec57a-9ad0-4cad-b4f5-a99a15bf95bc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart/heart.prefab": {
+    "time": 1629971893000,
+    "uuid": "e9edd1fd-5813-41af-8764-dcd8b7d280d9",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart/heartBig.prefab": {
+    "time": 1629971893000,
+    "uuid": "d40065b5-5a26-4815-b33c-0369046cc2b4",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/aula.prefab": {
+    "time": 1630836996000,
+    "uuid": "8f38dfa0-0b89-4989-8653-dd26971a2a6f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/boomDragon.prefab": {
+    "time": 1630837013000,
+    "uuid": "05a6a411-7ff9-437d-a430-45cd3206ac0b",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/hellFire.prefab": {
+    "time": 1630837024000,
+    "uuid": "bc77c679-8683-4501-ad7c-f022921c3e62",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/magician.prefab": {
+    "time": 1630837035000,
+    "uuid": "1a72aac7-b610-417c-8385-3fb41ae7dc68",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc/businessMan.prefab": {
+    "time": 1630674136000,
+    "uuid": "0d35fe2c-5b89-49c6-a855-bec5b6dd0c4d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc/wiseMan.prefab": {
+    "time": 1630674144000,
+    "uuid": "fc4c31fa-305e-4d99-a028-e6f1376c302a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle.prefab": {
+    "time": 1630576461000,
+    "uuid": "325c562c-8668-44aa-acd4-0afa66e28224",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle01.prefab": {
+    "time": 1630576470000,
+    "uuid": "ef26ce92-2de6-46a2-91ea-6c1eebd42bbe",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle02.prefab": {
+    "time": 1630576598000,
+    "uuid": "4fc4d4f0-3639-44d3-97e8-21a3c3b2ca8c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/player/player01.prefab": {
+    "time": 1630837051000,
+    "uuid": "2aa1e862-22da-41fc-aa7e-b5ca509420ed",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/an.prefab": {
+    "time": 1630746049000,
+    "uuid": "4bd6c074-8f3c-46d6-a14e-153d80079275",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/anS.prefab": {
+    "time": 1630745958000,
+    "uuid": "5f8b0291-6f9b-4653-8c46-080f9b7426b0",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/cloud.prefab": {
+    "time": 1630655390000,
+    "uuid": "347898fb-85f8-4b95-a349-ea6265a23d03",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/warpGate/warpGate.prefab": {
+    "time": 1630750721000,
+    "uuid": "e09e9f6e-e4ff-4456-9871-5a337b47ed79",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow": {
+    "time": 1630388200000,
+    "uuid": "bf1f0bff-9f39-4f75-b914-775235ac2d0e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/back/backPanel.prefab": {
+    "time": 1630019537000,
+    "uuid": "687a6a39-e4bb-494e-9194-b5a3a71c092c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common/fightTip.prefab": {
+    "time": 1629971893000,
+    "uuid": "e335cc05-df1c-4416-9b58-927d7b8b4257",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common/tips.prefab": {
+    "time": 1629971893000,
+    "uuid": "36510b0f-44eb-4344-ac29-5f2a4e967db6",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugLevelItem.prefab": {
+    "time": 1630748194000,
+    "uuid": "3298f26f-4a04-4909-a842-9ad4eff45828",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugPanel.prefab": {
+    "time": 1630790283000,
+    "uuid": "74ec437c-60a5-4cd0-a78c-a4b5a4f6738a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugSkillItem.prefab": {
+    "time": 1630747116000,
+    "uuid": "ddde0d7d-e6fb-41b8-839c-33095175e492",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/bossBloodBar.prefab": {
+    "time": 1629971893000,
+    "uuid": "55ee689a-c1da-42d8-b1a1-a1d52e65eb0f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/fightPanel.prefab": {
+    "time": 1630748366000,
+    "uuid": "38903dda-84fb-47d1-967d-e3edcdcc0d58",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/line.prefab": {
+    "time": 1629971893000,
+    "uuid": "e036f68a-91c5-42d2-b083-e293ea13d688",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/monsterBloodBar.prefab": {
+    "time": 1629971893000,
+    "uuid": "07e5f088-6be9-408e-8fb4-4b0a664ccc2c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/playerBloodBar.prefab": {
+    "time": 1629971893000,
+    "uuid": "2786f3d0-add3-4ff4-bed5-3b4cb27ae7fd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/home/homePanel.prefab": {
+    "time": 1630020085000,
+    "uuid": "37c10937-e4a5-4730-80cd-376bba4b5c15",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/loading/loadingPanel.prefab": {
+    "time": 1630911864000,
+    "uuid": "5b362320-9c79-4ee7-9ee4-bec4f3fd38af",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/pausePanel.prefab": {
+    "time": 1630748869000,
+    "uuid": "edb26081-83ac-4475-a72c-0e1d797e5aaa",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/skillIcon.prefab": {
+    "time": 1629971893000,
+    "uuid": "49e355fb-87d1-4bd4-b6fa-9b5feb6094fd",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/skillList.prefab": {
+    "time": 1629971893000,
+    "uuid": "2e8de914-6657-40ae-9a37-58dcf6169640",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/revive/revivePanel.prefab": {
+    "time": 1630749214000,
+    "uuid": "bdc1878e-94d7-42f8-b6ff-03a299340939",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/setting/settingPanel.prefab": {
+    "time": 1630020616000,
+    "uuid": "8db75935-6456-4271-9957-0880391e67b7",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/settlement/settlementPanel.prefab": {
+    "time": 1630020725000,
+    "uuid": "9c6b789b-5842-4761-8452-e5e45837e09c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop/shopItem.prefab": {
+    "time": 1630749428000,
+    "uuid": "7de7b8fb-58e7-426c-8f4a-e0eb0475060e",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop/shopPanel.prefab": {
+    "time": 1630749444000,
+    "uuid": "8d60dccc-2663-41ce-845d-bfaa45e79e2d",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill/skillItem.prefab": {
+    "time": 1629971893000,
+    "uuid": "59ae0ebd-07e3-4798-8fc8-61d980bb9d9a",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill/skillPanel.prefab": {
+    "time": 1630744280000,
+    "uuid": "4138a296-8918-4c52-aaa7-ad76afb0151c",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowDouble.prefab": {
+    "time": 1630245875000,
+    "uuid": "308e9329-3756-4d1e-9151-83f538010d97",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowDoubleContinuous.prefab": {
+    "time": 1630245885000,
+    "uuid": "fd89eee4-660b-4034-8dd0-5d6256accdef",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowItem.prefab": {
+    "time": 1630245830000,
+    "uuid": "7e907685-ff27-49af-aaf5-ccdf31843a32",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowReverse.prefab": {
+    "time": 1630245893000,
+    "uuid": "fed09e2e-e8e1-4f41-81fc-9af1e8e15537",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSide.prefab": {
+    "time": 1630245901000,
+    "uuid": "50f32451-a242-4a17-81fa-cba9afc2a39f",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSingle.prefab": {
+    "time": 1630388200000,
+    "uuid": "acdad3cf-7586-4c79-a836-8ab8c7941bed",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSingleContinuous.prefab": {
+    "time": 1630245914000,
+    "uuid": "17fd60c7-f5e1-4080-b333-7e95808ae339",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowUmbrella.prefab": {
+    "time": 1630245955000,
+    "uuid": "586496b1-5fab-47f3-88ba-c66b8750f9cc",
+    "missing": false
+  },
+  "/Users/ykq/Downloads/archero/assets/res.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/scene.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/animation.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/material.meta": {
+    "time": 1630308572000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/physicsMaterial.meta": {
+    "time": 1629609718000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/migrate-canvas.ts.meta": {
+    "time": 1629973428000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/lib.meta": {
+    "time": 1630563217000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/main.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/art.scene.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/coinTrail.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/energyBall.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/animation/loading.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/groundLight.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/heartEff.meta": {
+    "time": 1629887444000
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/fight.scene.meta": {
+    "time": 1630406980000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hellFireEff.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/levelUp.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/lightningChain.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/scene/effect.scene.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/recovery.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/revival.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/runSmoke.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/tornado.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/material/wall.mtl.meta": {
+    "time": 1630308578000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font/fontWin.fnt.meta": {
+    "time": 1630747866000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/physicsMaterial/monster.pmtl.meta": {
+    "time": 1629610364000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/base.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/checkpoint.csv.meta": {
+    "time": 1629962478000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map001.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map002.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map003.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map004.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map005.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/font/fontWin_0.png.meta": {
+    "time": 1630747866000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map007.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map006.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map009.csv.meta": {
+    "time": 1629962478000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map010.csv.meta": {
+    "time": 1629962478000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map102.csv.meta": {
+    "time": 1630320293000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map101.csv.meta": {
+    "time": 1630032270000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map011.csv.meta": {
+    "time": 1629962478000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map103.csv.meta": {
+    "time": 1630320293000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map104.csv.meta": {
+    "time": 1630320293000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/map105.csv.meta": {
+    "time": 1630320293000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/arrow.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/monsterSkill.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/datas/playerSkill.csv.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/boss.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/characterRigid.ts.meta": {
+    "time": 1630836397000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/colliderItem.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/gameCamera.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/gameManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/mapManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monster.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterModel.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkillCollider.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/player.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/playerModel.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/reward.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/test.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/verticalRaycast.ts.meta": {
+    "time": 1630554970000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/audioManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/clientEvent.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/constant.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/csvManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/effectManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/localConfig.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/lodash.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/playerData.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/poolManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/resourceUtil.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/lib/cocosAnalytics.min.js.meta": {
+    "time": 1630563249000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/sdkUtil.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/back.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/storageManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/uiManager.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/home.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/loading.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/framework/util.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/revive.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/setting.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/settlement.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils/camera.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/utils/joystick.ts.meta": {
+    "time": 1629973429000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloudAnimationIn.anim.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloud.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/cloudAnimationOut.anim.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/revival.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/stoneMove.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/animation/tornado.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrow.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowAll.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowFire.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowFireIce.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowIce.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud/sky01.mtl.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightningFire.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightning.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrowLightningIce.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/coinTrail/coinTrail.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/energyBall/energyBall.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall/fireBall.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/fireBall/fireBallBig.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/heartEff/heartEff.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/groundLight/groundLight.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hellFireEff/hellFireEff.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hit.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFire.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFireBall1.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitFireBall2.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitIce.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/hit/hitLightning.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFiresAni.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFiresAni2.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/jetFires/jetFires.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser/laserAni.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/laser/laser.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/cloud/sky01.png.meta": {
+    "time": 1629973430000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/levelUp/levelUp.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/lightningChain/lightningChain.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/loadingPanel1.prefab.meta": {
+    "time": 1630910777000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/arrow/arrow.FBX.meta": {
+    "time": 1629973430000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/white.png.meta": {
+    "time": 1630906764000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud3.png.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud2.png.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/loadingCloud/cloud1.png.meta": {
+    "time": 1630662988000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/meshLineup.FBX.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/guangzhu.FBX.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/recovery/recovery.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/revival/revival.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/AEWave2.mtl.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/warpGate.FBX.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/runSmoke/runSmoke.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/yuanzhu_gao.FBX.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_Leaf01.mtl.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray_trail.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/AEWave2.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched-001.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/mesh/wind_mesh.FBX.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Effects_Textures_1668-1.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/FX_RingWave_008_TEX_KKJ.mtl.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_Leaf01.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Fog01.mtl.meta": {
+    "time": 1629699756000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Lightningblue1x5.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Effects_Textures_1668-1.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/FX_RingWave_008_TEX_KKJ.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Flash_01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Heal_01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Fog01.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Ring_002.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Lightningblue1x5.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Flash_01.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Rock01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Heal_01.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Ring_002.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircleGlow.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/Rock01.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle_di.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/WFX_T_MF Side RIFLE1 A8.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dn_alch_0001.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircleGlow.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dust_puff_particle_sheet.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/WFX_T_MF Side RIFLE1 A8.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_1.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_cold_bs.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dn_alch_0001.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_red.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_1.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/dust_puff_particle_sheet.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_zi.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/falloffLightbeam.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_cold_bs.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/feixing4.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_red.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_zi.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/falloffLightbeam.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_2_sheet.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_eff.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_effadd.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/feixing4.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_4_sheet.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/glow09.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/ice_pieces_2_color_sheet_new.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/impact_new_2_a_new_sheet.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_2_sheet.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_4_sheet.png.meta": {
+    "time": 1629973434000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/glow09.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/jetFires.mtl.meta": {
+    "time": 1629367543000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/lightning_purple_2_sheet.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/snow_dot.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/ice_pieces_2_color_sheet_new.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/impact_new_2_a_new_sheet.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/storm_sharpshock01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/vulcan_projectile.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/snow_dot.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wakka02.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/lightning_purple_2_sheet.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wavering02_02.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/storm_sharpshock01.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/won-light-up-sb.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/vulcan_projectile.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wakka02.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/tornado/tornado.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/won-light-up-sb.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/texture/wavering02_02.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningCircle.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningLine.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_tiao.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_xian.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/warningStrip.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_yuan.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate/warpGate_ani.anim.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_tiao.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warpGate/warpGate.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_xian.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_yuan.png.meta": {
+    "time": 1629973435000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heart.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.jpg.meta": {
+    "time": 1629973436000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heartA.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heart.jpg.meta": {
+    "time": 1629973436000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBox02.png.meta": {
+    "time": 1629973436000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.FBX.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtn01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBox01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtnHome.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtn02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonBtnReplay.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonIconPlay.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/load.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/move01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/commonImgShopLabel.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/move02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/auto-atlas.pac.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/singleColor.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/common/tipBg.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood06.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood03.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood05.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBlood04.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/prop/heartA.FBX.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss03.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxBoss02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxGold.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxLevel.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBoxSkillIcon.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnClose.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnHome.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnMusicoff.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnMusicon.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnPlay.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnStop.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnRight.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightBtnWrong.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIconBoss.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIconGold.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightIngStop.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/auto-atlas.pac.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightMove02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/fight/fightMove01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBtnSetting.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBox02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBox01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeFont01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeBtnStart.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/auto-atlas.pac.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconArrow.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconBest.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/logo.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/auto-atlas.pac.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/setting/settingImg03.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/home/homeIconMap01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementBox01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementHeart01.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementImgLight.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementHeart02.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/aulaDie.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementTitleLose.png.meta": {
+    "time": 1629973437000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/texture/settlement/settlementTitleWin.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/click.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/boomDragonDie.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/dragonDie.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/energyBall.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fire.mp3.meta": {
+    "time": 1630492782000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fireBall.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/fireBallBig.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/footStep1.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/footStep2.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/getSkill.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/goldCollect.mp3.meta": {
+    "time": 1630708609000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/goldDrop.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hitPlayer.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hitMonster.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/hellFireDie.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/ice.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/homePanelClick.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/laser.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/lightning.mp3.meta": {
+    "time": 1630483811000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/jetFire.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/loose.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/magicianDie.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/player01Die.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/recovery.mp3.meta": {
+    "time": 1630483811000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersion.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/revive.mp3.meta": {
+    "time": 1630483811000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersionSurround.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/energyBall.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/sell.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBall.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBallBig.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/jetFires.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/laser.meta": {
+    "time": 1629634557000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/levelUp.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/showWarpGate.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/lightningChain.meta": {
+    "time": 1629949873000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/recovery.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/runSmoke.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/tornado.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/trail.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/boss.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/gold.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/player.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene.meta": {
+    "time": 1630654641000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/warpGate.meta": {
+    "time": 1630464205000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/back.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/home.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/loading.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/revive.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/audio/sound/tornado.mp3.meta": {
+    "time": 1630483810000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/setting.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/settlement.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrContinuous.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowDouble.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowLightning.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowLaunch.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowFire.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowPenetrate.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowRebound.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowUmbrella.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowSide.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowReverse.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/arrowice.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/bloodthirsty.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/moveSpeed.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttack01.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttack02.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttackSpeed01.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseAttackSpeed02.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseCriticalHitDamage01.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseCriticalHitDamage02.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/dispersion.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseDodge.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/dispersionSurround.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/energyBall.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/fireBall.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/fireBallBig.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/jetFires.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/laser.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/monsterSkill/tornado.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningCircle.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningLine.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/fight/warningSkill/warningStrip.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/back/backPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common/fightTip.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/common/tips.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugLevelItem.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/debug/debugSkillItem.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/bossBloodBar.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/raiseHpLimit.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/fightPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/monsterBloodBar.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/texture/skillIcon/recovery.png.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/fight/playerBloodBar.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/home/homePanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/loading/loadingPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/pausePanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/skillIcon.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/pause/skillList.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/revive/revivePanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/setting/settingPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/settlement/settlementPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel/shopItem.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/shopPanel/shopPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill/skillItem.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/script/ui/skill/skillPanel.ts.meta": {
+    "time": 1629973438000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.jpg.meta": {
+    "time": 1629973439000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.jpg.meta": {
+    "time": 1629973439000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/edgeLight.effect.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragonHit.mtl.meta": {
+    "time": 1629971277000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.jpg.meta": {
+    "time": 1629973440000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.jpg.meta": {
+    "time": 1629973441000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.jpg.meta": {
+    "time": 1629973442000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragonAll.FBX.meta": {
+    "time": 1629973443000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aulaAll.FBX.meta": {
+    "time": 1629973444000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessman.png.meta": {
+    "time": 1629973444000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.FBX.meta": {
+    "time": 1629973445000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.png.meta": {
+    "time": 1629973445000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/DefaultMaterial.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.jpg.meta": {
+    "time": 1629973445000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.FBX.meta": {
+    "time": 1629973446000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.png.meta": {
+    "time": 1629973446000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragonAll.FBX.meta": {
+    "time": 1630858450000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magicianAll.FBX.meta": {
+    "time": 1629973449000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.FBX.meta": {
+    "time": 1709172703869.1663
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFireAll.FBX.meta": {
+    "time": 1630857505000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle01.prefab.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle02.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle.FBX.meta": {
+    "time": 1629971892000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle01.FBX.meta": {
+    "time": 1629973451000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anS.prefab.meta": {
+    "time": 1630327510000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle02.FBX.meta": {
+    "time": 1709172704524.6892
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.png.meta": {
+    "time": 1629973451000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.png.meta": {
+    "time": 1629973451000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.anim.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.FBX.meta": {
+    "time": 1629973452000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anS.FBX.meta": {
+    "time": 1630327510000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.anim.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.png.meta": {
+    "time": 1629973452000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.mtl.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowAll.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.FBX.meta": {
+    "time": 1629973452000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox1.png.meta": {
+    "time": 1629973452000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowFire.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowFireIce.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowIce.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightning.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightningFire.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/arrow/arrowLightningIce.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersion/dispersion.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/dispersionSurround/dispersionSurround.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/energyBall/energyBall.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBall/fireBall.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/fireBallBig/fireBallBig.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFire.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hit.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFireBall1.prefab.meta": {
+    "time": 1709172705126.081
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitFireBall2.prefab.meta": {
+    "time": 1709172705129.7954
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitIce.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.FBX.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/hit/hitLightning.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/jetFires/jetFires.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/laser/laser.prefab.meta": {
+    "time": 1709172705146.0933
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/levelUp/levelUp.prefab.meta": {
+    "time": 1709172705148.5422
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/lightningChain/lightningChain.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/runSmoke/runSmoke.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/recovery/recovery.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/trail/coinTrail.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/tornado/tornado.prefab.meta": {
+    "time": 1630031874000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningCircle.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningLine.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/effect/warning/warningStrip.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01All.FBX.meta": {
+    "time": 1630502775000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/boss/dragon.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/gold/gold.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart/heartBig.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/heart/heart.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/aula.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/boomDragon.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/magician.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/monster/hellFire.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc/businessMan.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/npc/wiseMan.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle01.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/obstacle/anObstacle02.prefab.meta": {
+    "time": 1709172705180.4602
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/player/player01.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow.meta": {
+    "time": 1629341888000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/anS.prefab.meta": {
+    "time": 1630836397000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/cloud.prefab.meta": {
+    "time": 1630655390000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/scene/an.prefab.meta": {
+    "time": 1630449458000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/warpGate/warpGate.prefab.meta": {
+    "time": 1630464207000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/back/backPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common/tips.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/common/fightTip.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugLevelItem.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/debug/debugSkillItem.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/line.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/fightPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/bossBloodBar.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/monsterBloodBar.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/fight/playerBloodBar.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/home/homePanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/pausePanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/loading/loadingPanel.prefab.meta": {
+    "time": 1630911822000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/skillIcon.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/revive/revivePanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/pause/skillList.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/setting/settingPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/settlement/settlementPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop/shopItem.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/shop/shopPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill/skillItem.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowDouble.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/ui/skill/skillPanel.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowDoubleContinuous.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowItem.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowReverse.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSingle.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSide.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowSingleContinuous.prefab.meta": {
+    "time": 1629971893000
+  },
+  "/Users/ykq/Downloads/archero/assets/resources/prefab/model/weapon/arrow/arrowUmbrella.prefab.meta": {
+    "time": 1629971893000
+  }
+}

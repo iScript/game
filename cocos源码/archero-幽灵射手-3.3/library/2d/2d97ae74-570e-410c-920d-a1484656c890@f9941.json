@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tipBg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 400,
+      "height": 53
+    },
+    "offset": {
+      "x": 0,
+      "y": 2.5
+    },
+    "originalSize": {
+      "width": 400,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2d97ae74-570e-410c-920d-a1484656c890@6c48a",
+    "packable": true
+  }
+}

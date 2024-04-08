@@ -1,0 +1,120 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "colliderItem"
+      },
+      {
+        "index": 3,
+        "name": "monster"
+      },
+      {
+        "index": 4,
+        "name": "reward"
+      },
+      {
+        "index": 5,
+        "name": "monsterSkillCollider"
+      },
+      {
+        "index": 6,
+        "name": "obstacle"
+      },
+      {
+        "index": 7,
+        "name": "raycastMesh"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 91,
+      "1": 101,
+      "2": 74,
+      "3": 77,
+      "4": 65,
+      "5": 66,
+      "6": 63
+    },
+    "defaultMaterial": {
+      "restitution": 0
+    }
+  },
+  "custom_joint_texture_layouts": [
+    {
+      "textureLength": 36,
+      "contents": [
+        {
+          "skeleton": "36dc4ba3-93f3-43b1-898b-46e9b392a617@438fe",
+          "clips": [
+            "36dc4ba3-93f3-43b1-898b-46e9b392a617@989ed",
+            "36dc4ba3-93f3-43b1-898b-46e9b392a617@b4251",
+            "36dc4ba3-93f3-43b1-898b-46e9b392a617@1f586",
+            "36dc4ba3-93f3-43b1-898b-46e9b392a617@6c359",
+            "36dc4ba3-93f3-43b1-898b-46e9b392a617@cf5ee"
+          ]
+        },
+        {
+          "skeleton": "6da33594-f314-467a-9e63-af10bd5fa3f1@438fe",
+          "clips": [
+            "6da33594-f314-467a-9e63-af10bd5fa3f1@989ed",
+            "6da33594-f314-467a-9e63-af10bd5fa3f1@b4251",
+            "6da33594-f314-467a-9e63-af10bd5fa3f1@79e35",
+            "6da33594-f314-467a-9e63-af10bd5fa3f1@1f586",
+            "6da33594-f314-467a-9e63-af10bd5fa3f1@cf5ee"
+          ]
+        },
+        {
+          "skeleton": "f984fad7-d64c-40cb-aaa2-f7be125b734f@438fe",
+          "clips": [
+            "f984fad7-d64c-40cb-aaa2-f7be125b734f@989ed",
+            "f984fad7-d64c-40cb-aaa2-f7be125b734f@b4251",
+            "f984fad7-d64c-40cb-aaa2-f7be125b734f@79e35",
+            "f984fad7-d64c-40cb-aaa2-f7be125b734f@1f586",
+            "f984fad7-d64c-40cb-aaa2-f7be125b734f@cf5ee"
+          ]
+        },
+        {
+          "skeleton": "4f9ae863-6e2a-4f02-8306-15f22906bbe3@438fe",
+          "clips": [
+            "4f9ae863-6e2a-4f02-8306-15f22906bbe3@989ed",
+            "4f9ae863-6e2a-4f02-8306-15f22906bbe3@b4251",
+            "4f9ae863-6e2a-4f02-8306-15f22906bbe3@1f586",
+            "4f9ae863-6e2a-4f02-8306-15f22906bbe3@cf5ee"
+          ]
+        },
+        {
+          "skeleton": "4e540908-9de0-4083-8cf4-5e2cd36f057a@438fe",
+          "clips": [
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@ca16a",
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@bd671",
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@b4251",
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@79e35",
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@1f586",
+            "4e540908-9de0-4083-8cf4-5e2cd36f057a@cf5ee"
+          ]
+        },
+        {
+          "skeleton": "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@438fe",
+          "clips": [
+            "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@989ed",
+            "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@b4251",
+            "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@79e35",
+            "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@1f586",
+            "f14c7aff-9cb8-4e9e-b972-cba36d22e5eb@cf5ee"
+          ]
+        }
+      ]
+    }
+  ]
+}

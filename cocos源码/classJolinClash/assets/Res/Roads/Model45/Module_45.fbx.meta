@@ -1,0 +1,194 @@
+{
+  "ver": "1.3.19",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a",
+  "files": [],
+  "subMetas": {
+    "279a8": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@279a8",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "279a8",
+      "name": "Road (3).mesh"
+    },
+    "6571f": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@6571f",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "6571f",
+      "name": "Road (1).mesh"
+    },
+    "e6d38": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@e6d38",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 2
+      },
+      "displayName": "",
+      "id": "e6d38",
+      "name": "Fence (2).mesh"
+    },
+    "73c3f": {
+      "ver": "1.0.9",
+      "importer": "gltf-mesh",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@73c3f",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 3
+      },
+      "displayName": "",
+      "id": "73c3f",
+      "name": "Fence (1).mesh"
+    },
+    "d34e3": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@d34e3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "d34e3",
+      "name": "Road.png.image"
+    },
+    "9435a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@9435a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@d34e3"
+      },
+      "displayName": "",
+      "id": "9435a",
+      "name": "Road.texture"
+    },
+    "84c89": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@84c89",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "84c89",
+      "name": "Fence_Mat.material"
+    },
+    "4e054": {
+      "ver": "1.0.14",
+      "importer": "gltf-material",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@4e054",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      },
+      "displayName": "",
+      "id": "4e054",
+      "name": "Road.material"
+    },
+    "89ce0": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "uuid": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@89ce0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "89ce0",
+      "name": "Module_45.prefab"
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Road.png",
+        "uri": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@d34e3"
+      }
+    ],
+    "redirect": "a6112a03-fa2f-444c-a704-29d0bbe65f8a@89ce0",
+    "assetFinder": {
+      "meshes": [
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@279a8",
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@6571f",
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@e6d38",
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@73c3f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@9435a"
+      ],
+      "materials": [
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@84c89",
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@4e054"
+      ],
+      "scenes": [
+        "a6112a03-fa2f-444c-a704-29d0bbe65f8a@89ce0"
+      ]
+    }
+  }
+}

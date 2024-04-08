@@ -1,0 +1,23 @@
+{
+  "package": "",
+  "name": "",
+  "icon": "",
+  "versionName": "",
+  "versionCode": "",
+  "minPlatformVersion": "",
+  "manifestPath": "",
+  "deviceOrientation": "portrait",
+  "fullScreen": true,
+  "logLevel": "log",
+  "runRelease": false,
+  "appType": "fastgame",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

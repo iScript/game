@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBtnMusicoff",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 145,
+      "height": 145
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 145,
+      "height": 145
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2b9b82bb-6daa-4196-89e9-58c1540715ef@6c48a",
+    "packable": true
+  }
+}

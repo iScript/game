@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightIconBoss",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 55,
+      "height": 56
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 55,
+      "height": 56
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "09ea7777-3b36-4401-992a-c52afbddac50@6c48a",
+    "packable": true
+  }
+}

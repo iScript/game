@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonBtnHome",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 145,
+      "height": 145
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 145,
+      "height": 145
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "cb80dbf6-a4b7-4bf1-ba95-58bb22bcfa55@6c48a",
+    "packable": true
+  }
+}

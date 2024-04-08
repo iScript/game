@@ -1,0 +1,290 @@
+{
+  "uuid": {
+    "/Users/ykq/Downloads/archero/assets/res/material/wall.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/cloud/sky01.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/AEWave2.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/CFX_T_Ray_trail.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_Leaf01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched-001.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Common_SmokeStretched.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Effects_Textures_1668-1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/FX_RingWave_008_TEX_KKJ.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Fog01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Lightningblue1x5.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Flash_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/M_Heal_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Ring_002.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/Rock01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircleGlow.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/SharpCircle_di.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/WFX_T_MF Side RIFLE1 A8.mtl": [
+      "17debcc3-0a6b-4b8a-b00b-dc58b885581e"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/dn_alch_0001.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/dust_puff_particle_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_cold_bs.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_red.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/etc_mirage_zi.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/falloffLightbeam.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/feixing4.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_eff.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_glow_effadd.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/fire_particles_4_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/glow09.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/ice_pieces_2_color_sheet_new.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/impact_new_2_a_new_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/jetFires.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/lightning_purple_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/snow_dot.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/storm_sharpshock01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/vulcan_projectile.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/wakka02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/wavering02_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/texture/won-light-up-sb.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_tiao.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_xian.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/effect/warning/yj_yuan.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/prop/heart.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/aulaNew/aula.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/boomDragonNew/boomDragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/dragonHit.mtl": [
+      "f38bba13-68fe-4786-ac10-f324148af80d"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/hellFireNew/hellFire.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/magicianNew/magician.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/npc/businessMan/businessMan.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/npc/wiseMan/wiseMan.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/role/role01/DefaultMaterial.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/role/role01/role01.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/farBg01.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/fog.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/skyBoxTex/skyBox.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ]
+  },
+  "path": {
+    "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.FBX@2fd37": [
+      "/Users/ykq/Downloads/archero/assets/res/model/prop/coin.jpg"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/monster/dragon/edgeLight.effect": [
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/standard-vs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input-standard.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-standard.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shared-ubos.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-vs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-base.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-vs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-base.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/packing.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lightingmap-vs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/standard-fs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-standard.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-standard-base.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-environment.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unpack.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/texture-lod.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shading-standard-additive.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lighting.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-forward-light.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output-standard.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/aces.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-shadow-map-fs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-fog-fs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/lightingmap-fs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shadow-caster-vs.chunk",
+      "/Applications/Cocos/Creator/3.3.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/shadow-caster-fs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/standard-vs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/input-standard.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/decode-standard.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/decode-base.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/common.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/morph.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-skinning.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/skinning-lbs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-global.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-local-batch.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-local.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shared-ubos.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-fog-vs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-fog-base.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-shadow-map-vs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-shadow.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-shadow-map-base.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/packing.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/lightingmap-vs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/standard-fs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shading-standard.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shading-standard-base.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/gamma.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-environment.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/unpack.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/texture-lod.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shading-standard-additive.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/lighting.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-forward-light.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/output-standard.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/aces.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-shadow-map-fs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/cc-fog-fs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/lightingmap-fs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shadow-caster-vs.chunk",
+      "/Users/ykq/Downloads/archero/assets/chunks/shadow-caster-fs.chunk"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.FBX@b10ef": [
+      "/Users/ykq/Downloads/archero/assets/res/model/scene/an/3.png"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/an.FBX@458c9": [
+      "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.png"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle.FBX@458c9": [
+      "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.png"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/model/scene/an/anObstacle02.FBX@458c9": [
+      "/Users/ykq/Downloads/archero/assets/res/model/scene/an/youanzong.png"
+    ],
+    "/Users/ykq/Downloads/archero/assets/res/font/fontWin.fnt": [
+      "/Users/ykq/Downloads/archero/assets/res/font/fontWin_0.png"
+    ]
+  }
+}

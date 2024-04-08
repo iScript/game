@@ -1,0 +1,230 @@
+{
+  "__version__": "1.2.8",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1629529130136": {
+        "id": "1629529130136",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-9-6 15:23 Build success in 34112 ms!",
+        "options": {
+          "name": "archero",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "127d7348-d43d-46d5-bb17-8678928b6a94",
+          "scenes": [
+            {
+              "url": "db://assets/scene/fight.scene",
+              "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94"
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "portrait",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "797b0e",
+              "services": []
+            }
+          }
+        },
+        "time": "2021-9-6 15:23",
+        "dirty": true,
+        "rawOptions": {
+          "name": "archero",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "127d7348-d43d-46d5-bb17-8678928b6a94",
+          "scenes": [
+            {
+              "url": "db://assets/scene/fight.scene",
+              "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94"
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "portrait",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "797b0e",
+              "services": []
+            }
+          }
+        }
+      },
+      "1630030088562": {
+        "id": "1630030088562",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-9-6 15:29 Build success in 39381 ms!",
+        "options": {
+          "name": "archero",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "subpackage",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": false,
+          "packAutoAtlas": false,
+          "startScene": "127d7348-d43d-46d5-bb17-8678928b6a94",
+          "scenes": [
+            {
+              "url": "db://assets/scene/fight.scene",
+              "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94",
+              "inBundle": false
+            }
+          ],
+          "outputName": "wechatgame",
+          "packages": {
+            "cocos-service": {
+              "configID": "797b0e",
+              "services": []
+            },
+            "wechatgame": {
+              "startSceneAssetBundle": true,
+              "orientation": "portrait",
+              "appid": "wx0ee0dd280dc5bb68",
+              "separateEngine": true,
+              "wasm": "wasm"
+            }
+          }
+        },
+        "time": "2021-9-6 15:28",
+        "dirty": false
+      },
+      "1630311361587": {
+        "id": "1630311361587",
+        "progress": 1,
+        "state": "success",
+        "message": "2021-9-3 21:22 Build success in 29866 ms!",
+        "options": {
+          "name": "archero",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": false,
+          "packAutoAtlas": false,
+          "startScene": "127d7348-d43d-46d5-bb17-8678928b6a94",
+          "scenes": [
+            {
+              "url": "db://assets/scene/fight.scene",
+              "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.cocosgame.archero",
+              "apiLevel": "android-27",
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "orientation": {
+                "portrait": true,
+                "upsideDown": false,
+                "landscapeRight": false,
+                "landscapeLeft": false
+              },
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              },
+              "sdkPath": "/Users/buddy/Library/Android/sdk",
+              "ndkPath": "/Users/buddy/Library/Android/sdk/ndk-bundle"
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "9brp8x3AZLFbJAKn",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "taskFlow"
+            },
+            "cocos-service": {
+              "configID": "797b0e",
+              "services": []
+            }
+          }
+        },
+        "time": "2021-9-3 21:21",
+        "dirty": false
+      }
+    }
+  },
+  "common": {
+    "outputName": "android",
+    "mainBundleCompressionType": "subpackage",
+    "platform": "android",
+    "startScene": "127d7348-d43d-46d5-bb17-8678928b6a94",
+    "scenes": [
+      {
+        "url": "db://assets/scene/fight.scene",
+        "uuid": "127d7348-d43d-46d5-bb17-8678928b6a94",
+        "inBundle": false
+      }
+    ],
+    "compressTexture": false,
+    "packAutoAtlas": false,
+    "name": "archero",
+    "mainBundleIsRemote": false,
+    "debug": false
+  },
+  "log": {
+    "level": 4
+  }
+}

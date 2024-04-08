@@ -1,0 +1,15 @@
+编号,角色物品类型,名称,资源名称,位置,角度,缩放倍数,生命值,攻击力,防御力,攻速(技能释放速度),移速,"移动频率(怪物属性,两次移动间隔,为0表示一直移动)",闪避率,暴击率(0为不暴击),暴击伤害,移动方式(怪物属性1走2飞行),移动模式(怪物属性3原地不动1随机移动2朝向主角),"金币掉落数量(怪物属性,为0时死亡不会掉落金币)",爱心掉落概率(怪物属性)
+string,string,string,string,string,string,string,number,number,number,number,number,"number",number,number,number,number,number,"number",number
+ID,type,name,resName,position,angle,scale,hp,attackPower,defensePower,attackSpeed,moveSpeed,"moveFrequency",dodgeRate,criticalHitRate,criticalHitDamage,moveMode,movePattern,"goldNum",heartDropRate
+1001,player,玩家,player01,"-14.65,1.75,-0.82","0,-90,0","4,4,4",500,50,100,2,7,,0.05,0.1,1.5," ",,,
+2001,monster,蜘蛛,aula,"0,1.62,0","0,90,0","3,3,3",120,20,100,1,4,"0.5",0,0,0,1,2,"3",0.1
+2002,monster,爆炸龙,boomDragon,"0,1.62,0","0,90,0","3,3,3",100,25,0,1,4,"1.5",0,0,0,2,1,"2",0.1
+2003,monster,魔法师,magician,"0,1.62,0","0,90,0","5,5,5",160,50,50,1,4,"2",0,0,0,1,1,"4",0.1
+2004,monster,地狱火,hellFire,"0,1.62,0","0,90,0","8,8,8",150,40,200,1,3,"1",0,0,0,1,2,"3",0.1
+3001,boss,巨龙,dragon,"0,1.7,0","0,90,0","40,40,40",1000,90,150,1,4,"1",0,0,0,2,1,"30",0
+4001,heart,大爱心,heartBig,"1.285,2.2,5.148","0,-90,0","3,3,3",,,,,,,,,,,,,
+5001,npc,商人,businessMan,"0,1.6,0","0,-90,0","4,4,4",,,,,,,,,,,,,
+5002,npc,贤者,wiseMan,"0,1.6,0","0,-90,0","4,4,4",,,,,,,,,,,,,
+6001,obstacle,板凳,anObstacle,"0,1.6,0","0,0,0","1.5,1.7,1.5",,,,,,,,,,,,,
+6002,obstacle,台柱,anObstacle01,"0,1.6,0","0,0,0","1.5,1.5,1.5",,,,,,,,,,,,,
+6003,obstacle,水潭,anObstacle02,"0,0,0","0,0,0","1,0.8,1",,,,,,,,,,,,,

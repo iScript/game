@@ -1,0 +1,10 @@
+{
+  "options": {
+    "wechatgame": {
+      "startSceneAssetBundle": true,
+      "wasm": "wasm",
+      "separateEngine": true,
+      "appid": "wx0ee0dd280dc5bb68"
+    }
+  }
+}

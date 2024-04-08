@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBoxBoss02",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 560,
+      "height": 27
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 560,
+      "height": 27
+    },
+    "rotated": false,
+    "capInsets": [
+      5,
+      0,
+      5,
+      0
+    ],
+    "texture": "2109ccf8-f8d6-4a06-a1fc-3db37ca02320@6c48a",
+    "packable": true
+  }
+}

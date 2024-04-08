@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "commonBtnReplay",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 145,
+      "height": 145
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 145,
+      "height": 145
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d4b52a8d-7069-471e-993e-d0debaa5f49d@6c48a",
+    "packable": true
+  }
+}
